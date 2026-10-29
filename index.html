@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>社群熱度｜台美日股票討論</title>
+  <meta name="description" content="觀察台灣、美國、日本股票在 PTT、Reddit、5ch 等來源的討論熱度與早期升溫。資料來自倉庫裡的 JSON 與 CSV。">
+  <meta property="og:title" content="社群熱度｜台美日股票討論">
+  <meta property="og:description" content="熱門話題、早期升溫、提及量趨勢，以及美股回測摘要。">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://city2243.github.io/social-heat/">
+  <link rel="canonical" href="https://city2243.github.io/social-heat/">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&family=Noto+Serif+TC:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+  <a class="skip" href="#main">跳到內容</a>
+  <header class="top wrap">
+    <div>
+      <p class="eyebrow">台灣 · 美國 · 日本</p>
+      <h1>社群熱度</h1>
+      <p class="tagline">股票討論的熱門話題與早期升溫</p>
+    </div>
+    <div class="head-meta">
+      <p id="asof" class="asof">讀取資料日期…</p>
+      <p id="stamp" class="badge-sample" hidden>範例資料</p>
+    </div>
+  </header>
+  <nav class="nav" aria-label="頁面">
+    <div class="wrap nav-list">
+      <a href="#/today" data-page="today">今日</a>
+      <a href="#/trend" data-page="trend">趨勢</a>
+      <a href="#/watchlist" data-page="watchlist">觀察名單</a>
+      <a href="#/backtest" data-page="backtest">回測</a>
+    </div>
+  </nav>
+  <div class="wrap">
+    <div id="banner" class="callout" hidden></div>
+  </div>
+  <main id="main" class="wrap" tabindex="-1">
+    <p class="muted">正在讀取資料…</p>
+  </main>
+  <footer class="wrap">
+    <p>本頁整理公開社群討論的熱度，不是投資建議。資料只來自倉庫裡的 <code>data/</code>，由別的程序每日更新。</p>
+    <p><a href="https://github.com/city2243/social-heat">city2243/social-heat</a></p>
+  </footer>
+  <noscript><p class="wrap">需要開啟 JavaScript 才能讀取 data/ 的 JSON 與 CSV。</p></noscript>
+  <script src="assets/rule.js" defer></script>
+  <script src="assets/app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-16",
+  "data_label": "範例資料",
+  "markets": {
+    "TW": {
+      "topics": [
+        {
+          "keyword": "台積電",
+          "summary": "討論多半圍繞先進製程、資本支出與封裝產能。PTT、CMoney 與新聞每天都有聲量，但沒有相對七日均量的突然跳升。（範例）",
+          "links": [
+            {
+              "title": "PTT 相關討論搜尋：台積電（範例連結）",
+              "url": "https://www.google.com/search?q=site%3Aptt.cc/bbs/Stock%20%E5%8F%B0%E7%A9%8D%E9%9B%BB",
+              "source": "ptt"
+            },
+            {
+              "title": "CMoney 討論：2330（範例連結）",
+              "url": "https://www.cmoney.tw/forum/stock/2330",
+              "source": "cmoney"
+            },
+            {
+              "title": "Google 新聞：台積電（範例連結）",
+              "url": "https://news.google.com/search?q=%E5%8F%B0%E7%A9%8D%E9%9B%BB&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+              "source": "news"
+            },
+            {
+              "title": "YouTube 搜尋：台積電（範例連結）",
+              "url": "https://www.youtube.com/results?search_query=%E5%8F%B0%E7%A9%8D%E9%9B%BB",
+              "source": "youtube"
+            }
+          ]
+        },
+        {
+          "keyword": "聯發科",
+          "summary": "手機與邊緣運算晶片的訂單討論升溫後，持續留在熱門話題。（範例）",
+          "links": [
+            {
+              "title": "PTT 相關討論搜尋：聯發科（範例連結）",
+              "url": "https://www.google.com/search?q=site%3Aptt.cc/bbs/Stock%20%E8%81%AF%E7%99%BC%E7%A7%91",
+              "source": "ptt"
+            },
+            {
+              "title": "CMoney 討論：2454（範例連結）",
+              "url": "https://www.cmoney.tw/forum/stock/2454",
+              "source": "cmoney"
+            },
+            {
+              "title": "Google 新聞：聯發科（範例連結）",
+              "url": "https://news.google.com/search?q=%E8%81%AF%E7%99%BC%E7%A7%91&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+              "source": "news"
+            }
+          ]
+        }
+      ],
+      "early_heating": []
+    },
+    "US": {
+      "topics": [
+        {
+          "keyword": "蘋果",
+          "summary": "財報與服務業務的討論維持高檔，Reddit、X 與新聞都有聲量，但沒有達到五倍均量。（範例）",
+          "links": [
+            {
+              "title": "Reddit 搜尋：Apple AAPL（範例連結）",
+              "url": "https://www.reddit.com/search/?q=Apple%20AAPL&sort=new",
+              "source": "reddit"
+            },
+            {
+              "title": "X 搜尋：Apple AAPL（範例連結）",
+              "url": "https://x.com/search?q=Apple%20AAPL&src=typed_query&f=live",
+              "source": "x"
+            },
+            {
+              "title": "Google 新聞：蘋果（範例連結）",
+              "url": "https://news.google.com/search?q=Apple%20AAPL&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+              "source": "news"
+            }
+          ]
+        },
+        {
+          "keyword": "美光",
+          "summary": "資料中心記憶體與 HBM 供應是討論核心。第一次放量之後，後續快照把它列進熱門話題。（範例）",
+          "links": [
+            {
+              "title": "Reddit 搜尋：Micron MU（範例連結）",
+              "url": "https://www.reddit.com/search/?q=Micron%20MU&sort=new",
+              "source": "reddit"
+            },
+            {
+              "title": "X 搜尋：Micron MU（範例連結）",
+              "url": "https://x.com/search?q=Micron%20MU&src=typed_query&f=live",
+              "source": "x"
+            },
+            {
+              "title": "Google 新聞：美光（範例連結）",
+              "url": "https://news.google.com/search?q=Micron%20MU&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+              "source": "news"
+            }
+          ]
+        }
+      ],
+      "early_heating": [
+        {
+          "keyword": "美光",
+          "reason": "當時已經在熱門話題裡，這天 Reddit、X 與新聞又同時跳升。（範例）",
+          "ratio_vs_7d": 9.0,
+          "communities": 3,
+          "platforms": [
+            "reddit",
+            "x",
+            "news"
+          ]
+        }
+      ]
+    },
+    "JP": {
+      "topics": [
+        {
+          "keyword": "軟銀",
+          "summary": "投資部位與旗下公司的討論維持穩定，沒有出現五倍均量的早期升溫。（範例）",
+          "links": [
+            {
+              "title": "5ch 相關搜尋：軟銀（範例連結）",
+              "url": "https://www.google.com/search?q=site%3A5ch.net%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF",
+              "source": "5ch"
+            },
+            {
+              "title": "X 搜尋：ソフトバンク（範例連結）",
+              "url": "https://x.com/search?q=%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF&src=typed_query&f=live",
+              "source": "x"
+            },
+            {
+              "title": "Google 新聞：軟銀（範例連結）",
+              "url": "https://news.google.com/search?q=%E8%BB%9F%E9%8A%80&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+              "source": "news"
+            }
+          ]
+        }
+      ],
+      "early_heating": []
+    }
+  },
+  "hit_rate_note": "範例資料。截至 2026-10-16，早期升溫標記 7 筆，其中 2 筆在較晚的快照裡列入熱門話題，5 筆尚未。"
+}
