@@ -1,88 +1,149 @@
 {
-  "date": "2026-10-28",
-  "data_label": "範例資料",
+  "date": "2026-10-30",
   "markets": {
     "TW": {
       "topics": [
         {
-          "keyword": "台積電",
-          "summary": "討論多半圍繞先進製程、資本支出與封裝產能。PTT、CMoney 與新聞每天都有聲量，但沒有相對七日均量的突然跳升。（範例）",
+          "keyword": "加權指數",
+          "summary": "10/29 重挫 667 點（−1.42%）至 46368，跌破季線，外資賣超約 688 億，電子零組件 −3.05%；美股夜盤期又跌 643 點，市場擔心今天續殺。",
           "links": [
             {
-              "title": "PTT 相關討論搜尋：台積電（範例連結）",
-              "url": "https://www.google.com/search?q=site%3Aptt.cc/bbs/Stock%20%E5%8F%B0%E7%A9%8D%E9%9B%BB",
-              "source": "ptt"
-            },
-            {
-              "title": "CMoney 討論：2330（範例連結）",
-              "url": "https://www.cmoney.tw/forum/stock/2330",
-              "source": "cmoney"
-            },
-            {
-              "title": "Google 新聞：台積電（範例連結）",
-              "url": "https://news.google.com/search?q=%E5%8F%B0%E7%A9%8D%E9%9B%BB&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+              "title": "Google 新聞：台股 667點",
+              "url": "https://news.google.com/search?q=%E5%8F%B0%E8%82%A1%20667%E9%BB%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
               "source": "news"
             },
             {
-              "title": "YouTube 搜尋：台積電（範例連結）",
-              "url": "https://www.youtube.com/results?search_query=%E5%8F%B0%E7%A9%8D%E9%9B%BB",
-              "source": "youtube"
+              "title": "X 搜尋：台股 季線",
+              "url": "https://x.com/search?q=%E5%8F%B0%E8%82%A1%20%E5%AD%A3%E7%B7%9A&f=live",
+              "source": "x"
             }
           ]
         },
         {
-          "keyword": "聯發科",
-          "summary": "手機與邊緣運算晶片的訂單討論升溫後，持續留在熱門話題。（範例）",
+          "keyword": "聯電",
+          "summary": "法說會後跌停（−9.8%），PTT 與新聞都在討論法說內容不如預期、成熟製程題材退燒。",
           "links": [
             {
-              "title": "PTT 相關討論搜尋：聯發科（範例連結）",
-              "url": "https://www.google.com/search?q=site%3Aptt.cc/bbs/Stock%20%E8%81%AF%E7%99%BC%E7%A7%91",
+              "title": "Google 新聞：聯電 跌停 法說",
+              "url": "https://news.google.com/search?q=%E8%81%AF%E9%9B%BB%20%E8%B7%8C%E5%81%9C%20%E6%B3%95%E8%AA%AA&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+              "source": "news"
+            },
+            {
+              "title": "X 搜尋：聯電",
+              "url": "https://x.com/search?q=%E8%81%AF%E9%9B%BB&f=live",
+              "source": "x"
+            }
+          ]
+        },
+        {
+          "keyword": "友達",
+          "summary": "Q3 本業虧損、廣達終止承接廠房，接著宣布以 388 億元把台中廠賣給台積電，PTT 三篇爆文。",
+          "links": [
+            {
+              "title": "PTT：友達賣台中廠給台積電",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793270936.A.739.html",
               "source": "ptt"
             },
             {
-              "title": "CMoney 討論：2454（範例連結）",
-              "url": "https://www.cmoney.tw/forum/stock/2454",
-              "source": "cmoney"
+              "title": "PTT：友達Q3本業虧損",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793254341.A.72A.html",
+              "source": "ptt"
             },
             {
-              "title": "Google 新聞：聯發科（範例連結）",
-              "url": "https://news.google.com/search?q=%E8%81%AF%E7%99%BC%E7%A7%91&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+              "title": "PTT：廣達終止承接友達廠",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793260451.A.3DE.html",
+              "source": "ptt"
+            },
+            {
+              "title": "Google 新聞：友達 台積電 台中廠",
+              "url": "https://news.google.com/search?q=%E5%8F%8B%E9%81%94%20%E5%8F%B0%E7%A9%8D%E9%9B%BB%20%E5%8F%B0%E4%B8%AD%E5%BB%A0&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
               "source": "news"
             }
           ]
         },
         {
-          "keyword": "南亞科",
-          "summary": "記憶體報價與庫存天期是主要話題。早期升溫之後，這檔出現在熱門話題裡。（範例）",
+          "keyword": "智原／佳世達",
+          "summary": "逆勢亮點：智原連兩天漲停、佳世達漲停，麗臺 +9.7%；X 上中文提及 10/29 為 17 則，約前 6 日均量的 2.6 倍。",
           "links": [
             {
-              "title": "PTT 相關討論搜尋：南亞科（範例連結）",
-              "url": "https://www.google.com/search?q=site%3Aptt.cc/bbs/Stock%20%E5%8D%97%E4%BA%9E%E7%A7%91",
+              "title": "Google 新聞：智原 漲停",
+              "url": "https://news.google.com/search?q=%E6%99%BA%E5%8E%9F%20%E6%BC%B2%E5%81%9C&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+              "source": "news"
+            },
+            {
+              "title": "Google 新聞：佳世達 漲停",
+              "url": "https://news.google.com/search?q=%E4%BD%B3%E4%B8%96%E9%81%94%20%E6%BC%B2%E5%81%9C&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+              "source": "news"
+            },
+            {
+              "title": "X 搜尋：智原 OR 佳世達",
+              "url": "https://x.com/search?q=%E6%99%BA%E5%8E%9F%20OR%20%E4%BD%B3%E4%B8%96%E9%81%94&f=live",
+              "source": "x"
+            }
+          ]
+        },
+        {
+          "keyword": "國巨／創意財報",
+          "summary": "國巨 Q3 EPS 5.83、創意 EPS 16.95，PTT 推文數 60 與 43；被動元件與 ASIC 的後續是討論重點。",
+          "links": [
+            {
+              "title": "PTT：國巨Q3 EPS 5.83",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793262026.A.442.html",
               "source": "ptt"
             },
             {
-              "title": "CMoney 討論：2408（範例連結）",
-              "url": "https://www.cmoney.tw/forum/stock/2408",
-              "source": "cmoney"
+              "title": "PTT：創意Q3 EPS 16.95",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793263377.A.E40.html",
+              "source": "ptt"
             },
             {
-              "title": "Google 新聞：南亞科（範例連結）",
-              "url": "https://news.google.com/search?q=%E5%8D%97%E4%BA%9E%E7%A7%91&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+              "title": "Google 新聞：國巨 第三季 EPS",
+              "url": "https://news.google.com/search?q=%E5%9C%8B%E5%B7%A8%20%E7%AC%AC%E4%B8%89%E5%AD%A3%20EPS&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
               "source": "news"
+            }
+          ]
+        },
+        {
+          "keyword": "大立光／光學股",
+          "summary": "大立光 −8.2%、玉晶光 −9.8% 跌停，瀚宇博 −9.9%，高價股遭外資提款。",
+          "links": [
+            {
+              "title": "Google 新聞：大立光 玉晶光 重挫",
+              "url": "https://news.google.com/search?q=%E5%A4%A7%E7%AB%8B%E5%85%89%20%E7%8E%89%E6%99%B6%E5%85%89%20%E9%87%8D%E6%8C%AB&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+              "source": "news"
+            }
+          ]
+        },
+        {
+          "keyword": "美股科技財報衝擊",
+          "summary": "Intel 財測遠低於預期（PTT 65 推）、Alphabet AI 尚未回本、Amazon 指標不如預期，台股供應鏈連帶承壓；SK 海力士稱記憶體缺貨到 2030 年則撐住記憶體族群。",
+          "links": [
+            {
+              "title": "PTT：Intel財測遠低於預期",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793305010.A.6F2.html",
+              "source": "ptt"
+            },
+            {
+              "title": "PTT：Alphabet AI未回本",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793231832.A.71D.html",
+              "source": "ptt"
+            },
+            {
+              "title": "PTT：SK海力士：缺貨到2030",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793241383.A.64C.html",
+              "source": "ptt"
             }
           ]
         }
       ],
       "early_heating": [
         {
-          "keyword": "奇鋐",
-          "reason": "散熱與伺服器供應鏈在 PTT、CMoney、Threads 放量。這是樣本最後一天，還沒有更晚的快照。（範例）",
-          "ratio_vs_7d": 10.27,
-          "communities": 3,
+          "keyword": "智原／佳世達",
+          "reason": "追蹤中：X 中文提及 17 則，約前 6 日均量 2.6 倍，但股價已漲停，不算早期。PTT 未觸發 Kleinberg 突增。",
+          "ratio_vs_7d": 2.6,
+          "communities": 1,
           "platforms": [
-            "ptt",
-            "cmoney",
-            "threads"
+            "x"
           ]
         }
       ]
@@ -90,105 +151,156 @@
     "US": {
       "topics": [
         {
-          "keyword": "蘋果",
-          "summary": "財報與服務業務的討論維持高檔，Reddit、X 與新聞都有聲量，但沒有達到五倍均量。（範例）",
+          "keyword": "Alphabet",
+          "summary": "10/29 重挫約 12%，史上最大單日跌幅、蒸發約 4800 億美元市值，市場擔心 AI 吃掉搜尋本業。",
           "links": [
             {
-              "title": "Reddit 搜尋：Apple AAPL（範例連結）",
-              "url": "https://www.reddit.com/search/?q=Apple%20AAPL&sort=new",
+              "title": "r/stocks：GOOGL 討論",
+              "url": "https://www.reddit.com/r/stocks/comments/1xi93uc/",
               "source": "reddit"
             },
             {
-              "title": "X 搜尋：Apple AAPL（範例連結）",
-              "url": "https://x.com/search?q=Apple%20AAPL&src=typed_query&f=live",
-              "source": "x"
+              "title": "Google 新聞：Alphabet stock biggest drop",
+              "url": "https://news.google.com/search?q=Alphabet%20stock%20biggest%20drop&hl=en-US&gl=US&ceid=US:en",
+              "source": "news"
             },
             {
-              "title": "Google 新聞：蘋果（範例連結）",
-              "url": "https://news.google.com/search?q=Apple%20AAPL&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+              "title": "X 搜尋：GOOGL",
+              "url": "https://x.com/search?q=GOOGL&f=live",
+              "source": "x"
+            }
+          ]
+        },
+        {
+          "keyword": "ServiceNow",
+          "summary": "−24% 創最差單日，AI 取代 SaaS 的恐慌擴散，Fortinet 等軟體股同步走弱；WSB 該串留言 1542 則。",
+          "links": [
+            {
+              "title": "r/wallstreetbets：ServiceNow CEO 討論",
+              "url": "https://www.reddit.com/r/wallstreetbets/comments/1xipxs9/",
+              "source": "reddit"
+            },
+            {
+              "title": "Google 新聞：ServiceNow stock plunge AI",
+              "url": "https://news.google.com/search?q=ServiceNow%20stock%20plunge%20AI&hl=en-US&gl=US&ceid=US:en",
               "source": "news"
             }
           ]
         },
         {
-          "keyword": "美光",
-          "summary": "資料中心記憶體與 HBM 供應是討論核心。第一次放量之後，後續快照把它列進熱門話題。（範例）",
+          "keyword": "Intel",
+          "summary": "盤後 −20% 以上，Q4 PC 財測疲弱。",
           "links": [
             {
-              "title": "Reddit 搜尋：Micron MU（範例連結）",
-              "url": "https://www.reddit.com/search/?q=Micron%20MU&sort=new",
+              "title": "Google 新聞：Intel guidance shares after hours",
+              "url": "https://news.google.com/search?q=Intel%20guidance%20shares%20after%20hours&hl=en-US&gl=US&ceid=US:en",
+              "source": "news"
+            },
+            {
+              "title": "X 搜尋：INTC",
+              "url": "https://x.com/search?q=INTC&f=live",
+              "source": "x"
+            }
+          ]
+        },
+        {
+          "keyword": "Amazon",
+          "summary": "Q3 不如預期，AWS 雖成長 39%，盤後仍跌 5–12%；Reddit 提及 10/29 為 5 則（28 日均 0.21），觸發討論突增。",
+          "links": [
+            {
+              "title": "Google 新聞：Amazon earnings AWS shares",
+              "url": "https://news.google.com/search?q=Amazon%20earnings%20AWS%20shares&hl=en-US&gl=US&ceid=US:en",
+              "source": "news"
+            },
+            {
+              "title": "X 搜尋：AMZN",
+              "url": "https://x.com/search?q=AMZN&f=live",
+              "source": "x"
+            }
+          ]
+        },
+        {
+          "keyword": "Reddit (RDDT)",
+          "summary": "財測疲弱加上 Google 導流下滑，盤後 −17%；WSB 有千萬美元 RDDT 梭哈文在討論。",
+          "links": [
+            {
+              "title": "r/wallstreetbets：1000萬美元 RDDT YOLO",
+              "url": "https://www.reddit.com/r/wallstreetbets/comments/1xirx7a/",
               "source": "reddit"
             },
             {
-              "title": "X 搜尋：Micron MU（範例連結）",
-              "url": "https://x.com/search?q=Micron%20MU&src=typed_query&f=live",
-              "source": "x"
-            },
-            {
-              "title": "Google 新聞：美光（範例連結）",
-              "url": "https://news.google.com/search?q=Micron%20MU&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+              "title": "Google 新聞：Reddit stock guidance",
+              "url": "https://news.google.com/search?q=Reddit%20stock%20guidance&hl=en-US&gl=US&ceid=US:en",
               "source": "news"
             }
           ]
         },
         {
-          "keyword": "英特爾",
-          "summary": "製程進度與代工客戶的討論，在跨平台放量之後升上熱門話題。（範例）",
+          "keyword": "DoorDash 收購 Instacart",
+          "summary": "DoorDash 同意以 170 億美元收購 Instacart，外送整併題材。",
           "links": [
             {
-              "title": "Reddit 搜尋：Intel（範例連結）",
-              "url": "https://www.reddit.com/search/?q=Intel&sort=new",
+              "title": "r/stocks：DASH/CART 討論",
+              "url": "https://www.reddit.com/r/stocks/comments/1xijrwm/",
               "source": "reddit"
             },
             {
-              "title": "X 搜尋：Intel（範例連結）",
-              "url": "https://x.com/search?q=Intel&src=typed_query&f=live",
-              "source": "x"
-            },
-            {
-              "title": "Google 新聞：英特爾（範例連結）",
-              "url": "https://news.google.com/search?q=Intel&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+              "title": "Google 新聞：DoorDash Instacart $17 billion",
+              "url": "https://news.google.com/search?q=DoorDash%20Instacart%20%2417%20billion&hl=en-US&gl=US&ceid=US:en",
               "source": "news"
             }
           ]
         },
         {
-          "keyword": "輝達",
-          "summary": "加速器出貨與供應鏈的討論在樣本期末進入熱門話題。（範例）",
+          "keyword": "Fed／Warsh",
+          "summary": "Fed 按兵不動，Warsh 記者會提到 super intelligence 引發討論。",
           "links": [
             {
-              "title": "Reddit 搜尋：NVIDIA（範例連結）",
-              "url": "https://www.reddit.com/search/?q=NVIDIA&sort=new",
+              "title": "r/stocks：Warsh 記者會",
+              "url": "https://www.reddit.com/r/stocks/comments/1xijjls/",
               "source": "reddit"
             },
             {
-              "title": "X 搜尋：NVIDIA（範例連結）",
-              "url": "https://x.com/search?q=NVIDIA&src=typed_query&f=live",
-              "source": "x"
-            },
+              "title": "Google 新聞：Warsh super intelligence FOMC",
+              "url": "https://news.google.com/search?q=Warsh%20super%20intelligence%20FOMC&hl=en-US&gl=US&ceid=US:en",
+              "source": "news"
+            }
+          ]
+        },
+        {
+          "keyword": "Sandisk",
+          "summary": "營收年增 378% 並宣布 1 拆 8；X 上 SNDK 提及 10/29 約 5600 則，前 6 日均量約 1950 則（約 2.9 倍）。",
+          "links": [
             {
-              "title": "Google 新聞：輝達（範例連結）",
-              "url": "https://news.google.com/search?q=NVIDIA&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+              "title": "Google 新聞：Sandisk stock split revenue",
+              "url": "https://news.google.com/search?q=Sandisk%20stock%20split%20revenue&hl=en-US&gl=US&ceid=US:en",
               "source": "news"
             },
             {
-              "title": "YouTube 搜尋：輝達（範例連結）",
-              "url": "https://www.youtube.com/results?search_query=NVIDIA",
-              "source": "youtube"
+              "title": "X 搜尋：SNDK",
+              "url": "https://x.com/search?q=SNDK&f=live",
+              "source": "x"
             }
           ]
         }
       ],
       "early_heating": [
         {
-          "keyword": "超微",
-          "reason": "Reddit、X 與 YouTube 當天放量。沒有更晚的快照可確認是否進入熱門。（範例）",
-          "ratio_vs_7d": 10.18,
+          "keyword": "AMZN",
+          "reason": "追蹤中：Reddit 討論突增（Kleinberg，5 則／28 日均 0.21），與財報同日、盤後已大跌。",
+          "ratio_vs_7d": 23.8,
           "communities": 3,
           "platforms": [
-            "reddit",
-            "x",
-            "youtube"
+            "reddit"
+          ]
+        },
+        {
+          "keyword": "RDDT",
+          "reason": "追蹤中：Reddit 10/27 與 10/29 兩度觸發，10/29 盤後 −17%。",
+          "ratio_vs_7d": 8.7,
+          "communities": 2,
+          "platforms": [
+            "reddit"
           ]
         }
       ]
@@ -196,87 +308,100 @@
     "JP": {
       "topics": [
         {
-          "keyword": "軟銀",
-          "summary": "投資部位與旗下公司的討論維持穩定，沒有出現五倍均量的早期升溫。（範例）",
+          "keyword": "日経平均",
+          "summary": "10/29 漲 705 點至 64,659，連三漲；但美股盤後重挫，夜盤期貨 −630、SGX 開盤 −860，今天預期先賣壓。",
           "links": [
             {
-              "title": "5ch 相關搜尋：軟銀（範例連結）",
-              "url": "https://www.google.com/search?q=site%3A5ch.net%20%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF",
-              "source": "5ch"
+              "title": "Google 新聞：日経平均 続伸",
+              "url": "https://news.google.com/search?q=%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%20%E7%B6%9A%E4%BC%B8&hl=ja&gl=JP&ceid=JP:ja",
+              "source": "news"
             },
             {
-              "title": "X 搜尋：ソフトバンク（範例連結）",
-              "url": "https://x.com/search?q=%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF&src=typed_query&f=live",
-              "source": "x"
-            },
-            {
-              "title": "Google 新聞：軟銀（範例連結）",
-              "url": "https://news.google.com/search?q=%E8%BB%9F%E9%8A%80&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+              "title": "Google 新聞：日経平均先物 夜間",
+              "url": "https://news.google.com/search?q=%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%E5%85%88%E7%89%A9%20%E5%A4%9C%E9%96%93&hl=ja&gl=JP&ceid=JP:ja",
               "source": "news"
             }
           ]
         },
         {
-          "keyword": "愛德萬測試",
-          "summary": "半導體測試設備的訂單討論，在標記日之後被列入熱門話題。（範例）",
+          "keyword": "アドバンテスト／東エレク",
+          "summary": "Advantest 上修財測 +6%，東エレク同步領漲。",
           "links": [
             {
-              "title": "5ch 相關搜尋：愛德萬測試（範例連結）",
-              "url": "https://www.google.com/search?q=site%3A5ch.net%20%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88",
-              "source": "5ch"
-            },
-            {
-              "title": "X 搜尋：アドバンテスト（範例連結）",
-              "url": "https://x.com/search?q=%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88&src=typed_query&f=live",
-              "source": "x"
-            },
-            {
-              "title": "Google 新聞：愛德萬測試（範例連結）",
-              "url": "https://news.google.com/search?q=%E6%84%9B%E5%BE%B7%E8%90%AC%E6%B8%AC%E8%A9%A6&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+              "title": "Google 新聞：アドバンテスト 上方修正",
+              "url": "https://news.google.com/search?q=%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%20%E4%B8%8A%E6%96%B9%E4%BF%AE%E6%AD%A3&hl=ja&gl=JP&ceid=JP:ja",
               "source": "news"
             },
             {
-              "title": "YouTube 搜尋：愛德萬測試（範例連結）",
-              "url": "https://www.youtube.com/results?search_query=%E6%84%9B%E5%BE%B7%E8%90%AC%E6%B8%AC%E8%A9%A6",
-              "source": "youtube"
+              "title": "X 搜尋：アドバンテスト",
+              "url": "https://x.com/search?q=%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88&f=live",
+              "source": "x"
             }
           ]
         },
         {
-          "keyword": "鎧俠",
-          "summary": "NAND 報價與產能利用率的討論升溫後，出現在熱門話題。（範例）",
+          "keyword": "キオクシア",
+          "summary": "持續走高，10/30 公布財報；X 日文提及 10/29 約 1.28 萬則，前 6 日均約 9800 則（約 1.3 倍），已是高聲量。",
           "links": [
             {
-              "title": "5ch 相關搜尋：鎧俠（範例連結）",
-              "url": "https://www.google.com/search?q=site%3A5ch.net%20%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2",
-              "source": "5ch"
+              "title": "Google 新聞：キオクシア 決算",
+              "url": "https://news.google.com/search?q=%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2%20%E6%B1%BA%E7%AE%97&hl=ja&gl=JP&ceid=JP:ja",
+              "source": "news"
             },
             {
-              "title": "X 搜尋：キオクシア（範例連結）",
-              "url": "https://x.com/search?q=%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2&src=typed_query&f=live",
+              "title": "X 搜尋：キオクシア",
+              "url": "https://x.com/search?q=%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2&f=live",
               "source": "x"
-            },
+            }
+          ]
+        },
+        {
+          "keyword": "日立／NEC",
+          "summary": "日立、NEC 財報後大跌。",
+          "links": [
             {
-              "title": "Google 新聞：鎧俠（範例連結）",
-              "url": "https://news.google.com/search?q=%E9%8E%A7%E4%BF%A0&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+              "title": "Google 新聞：日立 NEC 急落",
+              "url": "https://news.google.com/search?q=%E6%97%A5%E7%AB%8B%20NEC%20%E6%80%A5%E8%90%BD&hl=ja&gl=JP&ceid=JP:ja",
+              "source": "news"
+            }
+          ]
+        },
+        {
+          "keyword": "G＆Sショック",
+          "summary": "5ch「今買えばいい株」串的副標題改成「G＆Sショック」，指 Google 與 ServiceNow 暴跌衝擊；美股串（10156）已 912 則。",
+          "links": [
+            {
+              "title": "5ch 株式板",
+              "url": "https://egg.5ch.net/stock/",
+              "source": "5ch"
+            }
+          ]
+        },
+        {
+          "keyword": "日銀會議",
+          "summary": "BOJ 決策是今天焦點，市場看是否釋出升息訊號。",
+          "links": [
+            {
+              "title": "Google 新聞：日銀 金融政策決定会合",
+              "url": "https://news.google.com/search?q=%E6%97%A5%E9%8A%80%20%E9%87%91%E8%9E%8D%E6%94%BF%E7%AD%96%E6%B1%BA%E5%AE%9A%E4%BC%9A%E5%90%88&hl=ja&gl=JP&ceid=JP:ja",
+              "source": "news"
+            }
+          ]
+        },
+        {
+          "keyword": "野村HD",
+          "summary": "獲利增 27% 帶動上漲。",
+          "links": [
+            {
+              "title": "Google 新聞：野村HD 増益",
+              "url": "https://news.google.com/search?q=%E9%87%8E%E6%9D%91HD%20%E5%A2%97%E7%9B%8A&hl=ja&gl=JP&ceid=JP:ja",
               "source": "news"
             }
           ]
         }
       ],
-      "early_heating": [
-        {
-          "keyword": "藤倉",
-          "reason": "5ch 與 X 當天跳升。沒有更晚的快照。（範例）",
-          "ratio_vs_7d": 8.4,
-          "communities": 2,
-          "platforms": [
-            "5ch",
-            "x"
-          ]
-        }
-      ]
+      "early_heating": []
     }
   },
-  "hit_rate_note": "範例資料。截至 2026-10-28，早期升溫標記 12 筆，其中 8 筆在較晚的快照裡列入熱門話題，4 筆尚未。"
+  "hit_rate_note": "回查 3–7 天前訊號（回溯計算）：RDDT、GOOGL 於 10/27 觸發，10/29 分別盤後 −17%、−12%，命中 2/2，樣本太小僅供參考。"
 }

@@ -4,7 +4,7 @@
 
 網站：<https://city2243.github.io/social-heat/>
 
-**現在提交的 `data/` 全部是範例資料**，用來對齊版面與欄位，不是即時爬蟲結果。正式日更時覆寫這些檔，並拿掉 JSON 裡的 `data_label`，頁首的「範例資料」提示就會消失。
+`data/` 是每日例行程序推上的真實資料（自 2026-10-30 起；history.csv 含 10/21 起回補的 PTT 計數）。
 
 本頁只整理討論熱度，不是投資建議。
 
@@ -223,7 +223,6 @@ date,market,source,keyword,mentions,authors
 6. 正式資料不要再寫 `data_label`。
 7. 推上 `main`。
 
-不要在已經有正式資料之後執行 `scripts/generate_sample.py`，它會覆寫整個 `data/`。
 
 ## 範例資料在講什麼
 
