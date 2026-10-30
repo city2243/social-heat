@@ -1,32 +1,150 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "markets": {
     "TW": {
       "topics": [
         {
           "keyword": "加權指數",
-          "summary": "10/29 重挫 667 點（−1.42%）至 46368，跌破季線，外資賣超約 688 億，電子零組件 −3.05%；美股夜盤期又跌 643 點，市場擔心今天續殺。",
+          "summary": "10/30 重挫 1156.5 點（−2.49%）收 45,211.83，盤中一度跌 1,642 點，跌破半年線但守住 45,000；外資賣超 1,124.67 億元（史上第 7 大），三大法人賣超 1,398 億元。美股 Google、Amazon 財報與 Intel 財測引發 AI 投資回報疑慮。",
           "links": [
             {
-              "title": "Google 新聞：台股 667點",
-              "url": "https://news.google.com/search?q=%E5%8F%B0%E8%82%A1%20667%E9%BB%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+              "title": "中央社：台股重挫1156.5點 破半年線守45000點",
+              "url": "https://www.cna.com.tw/news/afe/202610300139.aspx",
               "source": "news"
             },
             {
-              "title": "X 搜尋：台股 季線",
-              "url": "https://x.com/search?q=%E5%8F%B0%E8%82%A1%20%E5%AD%A3%E7%B7%9A&f=live",
+              "title": "中央社：外資賣超創台股第7大",
+              "url": "https://www.cna.com.tw/news/afe/202610300294.aspx",
+              "source": "news"
+            },
+            {
+              "title": "經濟日報：三大法人單日提款1,398億元",
+              "url": "https://money.udn.com/money/story/5607/9847275",
+              "source": "news"
+            },
+            {
+              "title": "工商時報：46檔千金股全倒 失守半年線",
+              "url": "https://www.ctee.com.tw/news/20261030701165-430201",
+              "source": "news"
+            },
+            {
+              "title": "鉅亨網：外資單日重砍1124億元",
+              "url": "https://news.cnyes.com/news/id/6641939",
+              "source": "news"
+            },
+            {
+              "title": "PTT：2026/10/30 盤後閒聊（爆）",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793340014.A.063.html",
+              "source": "ptt"
+            }
+          ]
+        },
+        {
+          "keyword": "台達電",
+          "summary": "跌停收 1,335 元，外資賣超逾萬張，單檔拖累大盤約 105 點；Q3 獲利與毛利率不如預期，加上 AI 資本支出疑慮。X 中文提及 10/30 為 31 則，前 6 日均約 8.8 則（約 3.5 倍）。",
+          "links": [
+            {
+              "title": "理財周刊：台股兩天狂瀉1,824點 台達電爆冷跌停",
+              "url": "https://www.moneyweekly.com.tw/ArticleData/Info/Article/259109",
+              "source": "news"
+            },
+            {
+              "title": "民報：台達電跌停 4大原因",
+              "url": "https://www.peoplenews.tw/articles/economic-news/64625",
+              "source": "news"
+            },
+            {
+              "title": "YouTube：TVBS：大盤、台積電破半年線 台達電觸跌停",
+              "url": "https://www.youtube.com/watch?v=SdLZSmOWFIs",
+              "source": "youtube"
+            },
+            {
+              "title": "X 搜尋：台達電",
+              "url": "https://x.com/search?q=%E5%8F%B0%E9%81%94%E9%9B%BB&f=live",
+              "source": "x"
+            },
+            {
+              "title": "Threads 搜尋：台達電",
+              "url": "https://www.threads.com/search?q=%E5%8F%B0%E9%81%94%E9%9B%BB&serp_type=default&filter=recent",
+              "source": "threads"
+            }
+          ]
+        },
+        {
+          "keyword": "聯發科法說",
+          "summary": "10/30 法說：Q4 營收估季增 25–32%，首顆 AI ASIC 9 月出貨、Q4 貢獻上修至 25 億美元，明年目標 160 億美元；但當天股價跌 3.21% 收 3,915 元，失守 4,000 元。PTT 法說直播文爆、相關文章 10/30 共 3 篇（台股個股最多）。",
+          "links": [
+            {
+              "title": "PTT：[情報] 聯發科 2026Q3法說會直播（爆）",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793343771.A.557.html",
+              "source": "ptt"
+            },
+            {
+              "title": "PTT：[新聞] 聯發科AI ASIC 9月出貨 明年營收挑戰160億",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793357841.A.556.html",
+              "source": "ptt"
+            },
+            {
+              "title": "MoneyDJ：聯發科估Q4營收季增25~32%",
+              "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=d42524b6-f992-4772-8f4d-5f76aef0ad64",
+              "source": "news"
+            },
+            {
+              "title": "MoneyDJ：AI ASIC明年營收拚160億美元",
+              "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=66c4f455-241b-4e5b-befd-5d0ed5289aa6",
+              "source": "news"
+            },
+            {
+              "title": "X 搜尋：聯發科",
+              "url": "https://x.com/search?q=%E8%81%AF%E7%99%BC%E7%A7%91&f=live",
               "source": "x"
             }
           ]
         },
         {
-          "keyword": "聯電",
-          "summary": "法說會後跌停（−9.8%），PTT 與新聞都在討論法說內容不如預期、成熟製程題材退燒。",
+          "keyword": "友達／面板",
+          "summary": "友達跌停收 30.65 元、成交量全市場第 5（約 29.7 萬張），群創跌 7.5%；中科兩廠 388 億元賣給台積電的消息仍在發酵。Threads 搜尋「友達」第一屏 24 小時內 7 篇。",
           "links": [
             {
-              "title": "Google 新聞：聯電 跌停 法說",
-              "url": "https://news.google.com/search?q=%E8%81%AF%E9%9B%BB%20%E8%B7%8C%E5%81%9C%20%E6%B3%95%E8%AA%AA&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+              "title": "PTT：[新聞] 友達中科兩廠388億賣台積",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793326967.A.6C7.html",
+              "source": "ptt"
+            },
+            {
+              "title": "中央社：台股挫跌1156點 週線月線同步收黑",
+              "url": "https://www.cna.com.tw/news/afe/202610300173.aspx",
               "source": "news"
+            },
+            {
+              "title": "YouTube：晨星：被砍的是二線AI股（友達、群創、華新科…）",
+              "url": "https://www.youtube.com/watch?v=lRfXMxCfrMM",
+              "source": "youtube"
+            },
+            {
+              "title": "Threads 搜尋：友達",
+              "url": "https://www.threads.com/search?q=%E5%8F%8B%E9%81%94&serp_type=default&filter=recent",
+              "source": "threads"
+            }
+          ]
+        },
+        {
+          "keyword": "聯電",
+          "summary": "續跌 3.46% 收 111.5 元（前一日法說後跌停），大摩喊加碼引發「該不該撿」討論；PTT [標的] 文 48 推。",
+          "links": [
+            {
+              "title": "PTT：[新聞] 聯電股價打跌停免驚？大摩看好喊加碼",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793322502.A.CDE.html",
+              "source": "ptt"
+            },
+            {
+              "title": "PTT：[標的] 2303聯電天下無敵討論",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793362965.A.D47.html",
+              "source": "ptt"
+            },
+            {
+              "title": "YouTube：非凡錢線百分百：聯電、台達電跌成這樣能撿嗎",
+              "url": "https://www.youtube.com/watch?v=ykAB3fAPTHI",
+              "source": "youtube"
             },
             {
               "title": "X 搜尋：聯電",
@@ -36,114 +154,57 @@
           ]
         },
         {
-          "keyword": "友達",
-          "summary": "Q3 本業虧損、廣達終止承接廠房，接著宣布以 388 億元把台中廠賣給台積電，PTT 三篇爆文。",
+          "keyword": "金管會／國安基金喊話",
+          "summary": "千點大跌後金管會稱跌幅介於主要亞股之間，國安基金執秘表示「有漲有跌很正常」，暫不進場；PTT 相關新聞爆文。",
           "links": [
             {
-              "title": "PTT：友達賣台中廠給台積電",
-              "url": "https://www.ptt.cc/bbs/Stock/M.1793270936.A.739.html",
+              "title": "PTT：[新聞] 台股重挫千點金管會4項喊話（爆）",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793355354.A.D92.html",
               "source": "ptt"
             },
             {
-              "title": "PTT：友達Q3本業虧損",
-              "url": "https://www.ptt.cc/bbs/Stock/M.1793254341.A.72A.html",
-              "source": "ptt"
+              "title": "自由財經：外資狂賣1124億 金管會回應了",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5624216",
+              "source": "news"
             },
             {
-              "title": "PTT：廣達終止承接友達廠",
-              "url": "https://www.ptt.cc/bbs/Stock/M.1793260451.A.3DE.html",
-              "source": "ptt"
+              "title": "聯合新聞網：國安基金執秘：股市有漲有跌很正常",
+              "url": "https://udn.com/news/story/7239/9847423",
+              "source": "news"
             },
             {
-              "title": "Google 新聞：友達 台積電 台中廠",
-              "url": "https://news.google.com/search?q=%E5%8F%8B%E9%81%94%20%E5%8F%B0%E7%A9%8D%E9%9B%BB%20%E5%8F%B0%E4%B8%AD%E5%BB%A0&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+              "title": "工商時報：10月波動超過5,000點 金管會說話了",
+              "url": "https://www.ctee.com.tw/news/20261030701699-430301",
               "source": "news"
             }
           ]
         },
         {
-          "keyword": "智原／佳世達",
-          "summary": "逆勢亮點：智原連兩天漲停、佳世達漲停，麗臺 +9.7%；X 上中文提及 10/29 為 17 則，約前 6 日均量的 2.6 倍。",
+          "keyword": "味全（逆勢漲停）",
+          "summary": "味全龍奪中職總冠軍，味全逆勢漲停（+9.7% 收 13.55 元），成交量約 60 日中位數的 15 倍；航運長榮、萬海也逆勢上漲。",
           "links": [
             {
-              "title": "Google 新聞：智原 漲停",
-              "url": "https://news.google.com/search?q=%E6%99%BA%E5%8E%9F%20%E6%BC%B2%E5%81%9C&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-              "source": "news"
+              "title": "PTT：[新聞] 味全龍總冠軍加持 味全不畏大盤重挫",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793334960.A.88F.html",
+              "source": "ptt"
             },
             {
-              "title": "Google 新聞：佳世達 漲停",
-              "url": "https://news.google.com/search?q=%E4%BD%B3%E4%B8%96%E9%81%94%20%E6%BC%B2%E5%81%9C&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-              "source": "news"
-            },
-            {
-              "title": "X 搜尋：智原 OR 佳世達",
-              "url": "https://x.com/search?q=%E6%99%BA%E5%8E%9F%20OR%20%E4%BD%B3%E4%B8%96%E9%81%94&f=live",
+              "title": "X 搜尋：味全 漲停",
+              "url": "https://x.com/search?q=%E5%91%B3%E5%85%A8%20%E6%BC%B2%E5%81%9C&f=live",
               "source": "x"
-            }
-          ]
-        },
-        {
-          "keyword": "國巨／創意財報",
-          "summary": "國巨 Q3 EPS 5.83、創意 EPS 16.95，PTT 推文數 60 與 43；被動元件與 ASIC 的後續是討論重點。",
-          "links": [
-            {
-              "title": "PTT：國巨Q3 EPS 5.83",
-              "url": "https://www.ptt.cc/bbs/Stock/M.1793262026.A.442.html",
-              "source": "ptt"
-            },
-            {
-              "title": "PTT：創意Q3 EPS 16.95",
-              "url": "https://www.ptt.cc/bbs/Stock/M.1793263377.A.E40.html",
-              "source": "ptt"
-            },
-            {
-              "title": "Google 新聞：國巨 第三季 EPS",
-              "url": "https://news.google.com/search?q=%E5%9C%8B%E5%B7%A8%20%E7%AC%AC%E4%B8%89%E5%AD%A3%20EPS&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-              "source": "news"
-            }
-          ]
-        },
-        {
-          "keyword": "大立光／光學股",
-          "summary": "大立光 −8.2%、玉晶光 −9.8% 跌停，瀚宇博 −9.9%，高價股遭外資提款。",
-          "links": [
-            {
-              "title": "Google 新聞：大立光 玉晶光 重挫",
-              "url": "https://news.google.com/search?q=%E5%A4%A7%E7%AB%8B%E5%85%89%20%E7%8E%89%E6%99%B6%E5%85%89%20%E9%87%8D%E6%8C%AB&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-              "source": "news"
-            }
-          ]
-        },
-        {
-          "keyword": "美股科技財報衝擊",
-          "summary": "Intel 財測遠低於預期（PTT 65 推）、Alphabet AI 尚未回本、Amazon 指標不如預期，台股供應鏈連帶承壓；SK 海力士稱記憶體缺貨到 2030 年則撐住記憶體族群。",
-          "links": [
-            {
-              "title": "PTT：Intel財測遠低於預期",
-              "url": "https://www.ptt.cc/bbs/Stock/M.1793305010.A.6F2.html",
-              "source": "ptt"
-            },
-            {
-              "title": "PTT：Alphabet AI未回本",
-              "url": "https://www.ptt.cc/bbs/Stock/M.1793231832.A.71D.html",
-              "source": "ptt"
-            },
-            {
-              "title": "PTT：SK海力士：缺貨到2030",
-              "url": "https://www.ptt.cc/bbs/Stock/M.1793241383.A.64C.html",
-              "source": "ptt"
             }
           ]
         }
       ],
       "early_heating": [
         {
-          "keyword": "智原／佳世達",
-          "reason": "追蹤中：X 中文提及 17 則，約前 6 日均量 2.6 倍，但股價已漲停，不算早期。PTT 未觸發 Kleinberg 突增。",
-          "ratio_vs_7d": 2.6,
-          "communities": 1,
+          "keyword": "台達電",
+          "reason": "追蹤中（不是買賣訊號）：X 中文提及 31 則，約前 6 日均量 3.5 倍（未達 5 倍備援門檻）；PTT Kleinberg 未觸發。股價已跌停，屬價格先動。",
+          "ratio_vs_7d": 3.51,
+          "communities": 2,
           "platforms": [
-            "x"
+            "x",
+            "threads"
           ]
         }
       ]
@@ -151,50 +212,54 @@
     "US": {
       "topics": [
         {
-          "keyword": "Alphabet",
-          "summary": "10/29 重挫約 12%，史上最大單日跌幅、蒸發約 4800 億美元市值，市場擔心 AI 吃掉搜尋本業。",
+          "keyword": "AI 科技股賣壓",
+          "summary": "10/30 Nasdaq 收 −2.86%（盤中一度 −3.7%）、S&P 500 −1.82%、道瓊 −1.09%，費半 −7.2%；Amazon、Alphabet 財報讓市場重新擔心 AI 支出回報，資金轉向必需消費、公用事業。",
           "links": [
             {
-              "title": "r/stocks：GOOGL 討論",
-              "url": "https://www.reddit.com/r/stocks/comments/1xi93uc/",
-              "source": "reddit"
-            },
-            {
-              "title": "Google 新聞：Alphabet stock biggest drop",
-              "url": "https://news.google.com/search?q=Alphabet%20stock%20biggest%20drop&hl=en-US&gl=US&ceid=US:en",
+              "title": "CNBC：Stock market live updates（10/30）",
+              "url": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
               "source": "news"
             },
             {
-              "title": "X 搜尋：GOOGL",
-              "url": "https://x.com/search?q=GOOGL&f=live",
-              "source": "x"
-            }
-          ]
-        },
-        {
-          "keyword": "ServiceNow",
-          "summary": "−24% 創最差單日，AI 取代 SaaS 的恐慌擴散，Fortinet 等軟體股同步走弱；WSB 該串留言 1542 則。",
-          "links": [
-            {
-              "title": "r/wallstreetbets：ServiceNow CEO 討論",
-              "url": "https://www.reddit.com/r/wallstreetbets/comments/1xipxs9/",
-              "source": "reddit"
+              "title": "Yahoo Finance：Nasdaq dives as AI reckoning grips Wall Street",
+              "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html",
+              "source": "news"
             },
             {
-              "title": "Google 新聞：ServiceNow stock plunge AI",
-              "url": "https://news.google.com/search?q=ServiceNow%20stock%20plunge%20AI&hl=en-US&gl=US&ceid=US:en",
+              "title": "AP：tech sell-off deepens",
+              "url": "https://apnews.com/article/stock-markets-ai-alphabet-oil-16c266731fdf64178f38070af2b42497",
               "source": "news"
+            },
+            {
+              "title": "r/StockMarket：Almost a trillion USD wiped out（662 留言）",
+              "url": "https://www.reddit.com/r/StockMarket/comments/1xjkelc/",
+              "source": "reddit"
             }
           ]
         },
         {
           "keyword": "Intel",
-          "summary": "盤後 −20% 以上，Q4 PC 財測疲弱。",
+          "summary": "Q4 財測（EPS 0.25 美元、營收 150–160 億）遠低於預期，收 65.76 美元、單日 −28.6%，成交量約 60 日中位數的 4.7 倍；CFO 稱 2027 年難有正自由現金流。Reddit 10/30 提及 8 則（28 日均 0.29），X 約 1.37 萬則（前 6 日均約 2,500）。",
           "links": [
             {
-              "title": "Google 新聞：Intel guidance shares after hours",
-              "url": "https://news.google.com/search?q=Intel%20guidance%20shares%20after%20hours&hl=en-US&gl=US&ceid=US:en",
+              "title": "CNBC：Intel slides after weak outlook",
+              "url": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
               "source": "news"
+            },
+            {
+              "title": "r/wallstreetbets：Intel stock plunges 24% after the CFO said…",
+              "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjabd6/",
+              "source": "reddit"
+            },
+            {
+              "title": "YouTube：CNBC：Intel faces a 'multi-quarter' issue",
+              "url": "https://www.youtube.com/watch?v=COJLhgpnuiQ",
+              "source": "youtube"
+            },
+            {
+              "title": "PTT：〈美股盤後〉英特爾暴跌近29% 費半下殺",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793398719.A.186.html",
+              "source": "ptt"
             },
             {
               "title": "X 搜尋：INTC",
@@ -204,13 +269,54 @@
           ]
         },
         {
-          "keyword": "Amazon",
-          "summary": "Q3 不如預期，AWS 雖成長 39%，盤後仍跌 5–12%；Reddit 提及 10/29 為 5 則（28 日均 0.21），觸發討論突增。",
+          "keyword": "Reddit (RDDT)",
+          "summary": "Q4 財測疲弱、Google AI 搜尋導流下滑，單日 −29.2% 創最差紀錄；WSB 千萬美元 RDDT 梭哈文的「Post-Mortem」926 則留言。Reddit 提及 21 則、X 約 3,160 則（前 6 日均約 570）。",
           "links": [
             {
-              "title": "Google 新聞：Amazon earnings AWS shares",
-              "url": "https://news.google.com/search?q=Amazon%20earnings%20AWS%20shares&hl=en-US&gl=US&ceid=US:en",
+              "title": "CNBC：Reddit stock plunges 30% after weak outlook",
+              "url": "https://www.cnbc.com/2026/10/30/reddit-stock-q3-earnings.html",
               "source": "news"
+            },
+            {
+              "title": "Investing.com/Reuters：Google’s AI search squeezes traffic",
+              "url": "https://www.investing.com/news/stock-market-news/reddit-pinterest-shares-tumble-on-weak-user-and-revenue-growth-4987225",
+              "source": "news"
+            },
+            {
+              "title": "r/wallstreetbets：$10,000,000 RDDT YOLO Post-Mortem",
+              "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjklng/",
+              "source": "reddit"
+            },
+            {
+              "title": "YouTube：Bloomberg：Intel Plummets, Reddit Sinks",
+              "url": "https://www.youtube.com/watch?v=XZFR2G70OX0",
+              "source": "youtube"
+            },
+            {
+              "title": "X 搜尋：RDDT",
+              "url": "https://x.com/search?q=RDDT&f=live",
+              "source": "x"
+            }
+          ]
+        },
+        {
+          "keyword": "Amazon",
+          "summary": "Q3 營收與獲利不如預期、自由現金流 −424 億美元，維持 2026 年 2,200 億美元資本支出；10/30 收 −1.4%（盤前一度 −6%）。",
+          "links": [
+            {
+              "title": "CNBC：Amazon shares lose after earnings",
+              "url": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
+              "source": "news"
+            },
+            {
+              "title": "r/stocks：Amazon falls 7%, Intel plunges 25% in premarket",
+              "url": "https://www.reddit.com/r/stocks/comments/1xjedyq/",
+              "source": "reddit"
+            },
+            {
+              "title": "r/wallstreetbets：Amazon, Alphabet, SpaceX and Meta are all to blame",
+              "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjaz2h/",
+              "source": "reddit"
             },
             {
               "title": "X 搜尋：AMZN",
@@ -220,87 +326,94 @@
           ]
         },
         {
-          "keyword": "Reddit (RDDT)",
-          "summary": "財測疲弱加上 Google 導流下滑，盤後 −17%；WSB 有千萬美元 RDDT 梭哈文在討論。",
+          "keyword": "AMD／Sandisk／半導體",
+          "summary": "AMD −10.9%（11/3 財報前）、Sandisk −13.5%（財報優於預期並宣布 1 拆 8 仍被賣），Nvidia、Broadcom 跌 4–5%；WSB 討論 AMD 是否會步 Intel 後塵。",
           "links": [
             {
-              "title": "r/wallstreetbets：1000萬美元 RDDT YOLO",
-              "url": "https://www.reddit.com/r/wallstreetbets/comments/1xirx7a/",
+              "title": "Investing.com：Why is AMD stock sliding today?",
+              "url": "https://www.investing.com/news/stock-market-news/why-is-advanced-micro-devices-stock-sliding-today-93CH-4988108",
+              "source": "news"
+            },
+            {
+              "title": "r/wallstreetbets：AMD is as overvalued as it gets",
+              "url": "https://www.reddit.com/r/wallstreetbets/comments/1xjed79/",
               "source": "reddit"
             },
             {
-              "title": "Google 新聞：Reddit stock guidance",
-              "url": "https://news.google.com/search?q=Reddit%20stock%20guidance&hl=en-US&gl=US&ceid=US:en",
-              "source": "news"
+              "title": "YouTube：Why Earnings Tsunami destroys AMZN, INTC, AMD",
+              "url": "https://www.youtube.com/watch?v=splI8mh3ZAQ",
+              "source": "youtube"
             }
           ]
         },
         {
-          "keyword": "DoorDash 收購 Instacart",
-          "summary": "DoorDash 同意以 170 億美元收購 Instacart，外送整併題材。",
+          "keyword": "Binance 遭駭 63 億美元",
+          "summary": "Binance 證實遭駭約 63 億美元、暫停提領，比特幣一度跌至約 7.6 萬美元，但跌幅小於過往交易所事件。",
           "links": [
             {
-              "title": "r/stocks：DASH/CART 討論",
-              "url": "https://www.reddit.com/r/stocks/comments/1xijrwm/",
+              "title": "CNBC：Bitcoin holds up after Binance’s $6.3 billion hack",
+              "url": "https://www.cnbc.com/2026/10/30/binance-hack-bitcoin-price.html",
+              "source": "news"
+            },
+            {
+              "title": "BBC：Binance hit by hack suspected to be largest in history",
+              "url": "https://www.bbc.com/news/articles/cwg7xp8kx4v5o",
+              "source": "news"
+            },
+            {
+              "title": "r/wallstreetbets：Crypto exchange Binance hacked of over $6 billion",
+              "url": "https://www.reddit.com/r/wallstreetbets/comments/1xj7w95/",
               "source": "reddit"
             },
             {
-              "title": "Google 新聞：DoorDash Instacart $17 billion",
-              "url": "https://news.google.com/search?q=DoorDash%20Instacart%20%2417%20billion&hl=en-US&gl=US&ceid=US:en",
-              "source": "news"
-            }
-          ]
-        },
-        {
-          "keyword": "Fed／Warsh",
-          "summary": "Fed 按兵不動，Warsh 記者會提到 super intelligence 引發討論。",
-          "links": [
-            {
-              "title": "r/stocks：Warsh 記者會",
-              "url": "https://www.reddit.com/r/stocks/comments/1xijjls/",
+              "title": "r/stocks：Binance confirms $6.3 billion crypto heist",
+              "url": "https://www.reddit.com/r/stocks/comments/1xj6pk9/",
               "source": "reddit"
-            },
-            {
-              "title": "Google 新聞：Warsh super intelligence FOMC",
-              "url": "https://news.google.com/search?q=Warsh%20super%20intelligence%20FOMC&hl=en-US&gl=US&ceid=US:en",
-              "source": "news"
-            }
-          ]
-        },
-        {
-          "keyword": "Sandisk",
-          "summary": "營收年增 378% 並宣布 1 拆 8；X 上 SNDK 提及 10/29 約 5600 則，前 6 日均量約 1950 則（約 2.9 倍）。",
-          "links": [
-            {
-              "title": "Google 新聞：Sandisk stock split revenue",
-              "url": "https://news.google.com/search?q=Sandisk%20stock%20split%20revenue&hl=en-US&gl=US&ceid=US:en",
-              "source": "news"
-            },
-            {
-              "title": "X 搜尋：SNDK",
-              "url": "https://x.com/search?q=SNDK&f=live",
-              "source": "x"
             }
           ]
         }
       ],
       "early_heating": [
         {
-          "keyword": "AMZN",
-          "reason": "追蹤中：Reddit 討論突增（Kleinberg，5 則／28 日均 0.21），與財報同日、盤後已大跌。",
-          "ratio_vs_7d": 23.8,
+          "keyword": "INTC",
+          "reason": "追蹤中（不是買賣訊號）：Reddit Kleinberg 10/30 觸發（8 則／28 日均 0.29，後驗 0.999），X 約 5.4 倍；但財報後已 −28.6%、量比 4.7。",
+          "ratio_vs_7d": 5.44,
           "communities": 3,
           "platforms": [
-            "reddit"
+            "reddit",
+            "x",
+            "youtube"
           ]
         },
         {
           "keyword": "RDDT",
-          "reason": "追蹤中：Reddit 10/27 與 10/29 兩度觸發，10/29 盤後 −17%。",
-          "ratio_vs_7d": 8.7,
+          "reason": "追蹤中（不是買賣訊號）：10/27、10/29 已觸發，10/30 Reddit 再增至 21 則、X 約 5.5 倍；股價 −29.2%。",
+          "ratio_vs_7d": 5.52,
+          "communities": 3,
+          "platforms": [
+            "reddit",
+            "x",
+            "youtube"
+          ]
+        },
+        {
+          "keyword": "TTWO",
+          "reason": "早期（降溫中）（不是買賣訊號）：10/29 Reddit Kleinberg 觸發（5 則／均 0.43），前 5 日 |z| 最大 1.52、量比 1.54，價量未動；但 10/30 Reddit 只剩 1 則、X 165 則（低於前 6 日均 177）。話題為 GTA VI 11/19 發售。",
+          "ratio_vs_7d": null,
           "communities": 2,
           "platforms": [
-            "reddit"
+            "reddit",
+            "x"
+          ]
+        },
+        {
+          "keyword": "I bond",
+          "reason": "早期（非個股、雜訊高）（不是買賣訊號）：WSB 熱門貼文（1,676 分）談 I bond 新利率；X「\"I bond\"」10/30 有 88 則，前 6 日均約 11 則（約 7.8 倍）。關鍵字可能混入非理財用語。",
+          "ratio_vs_7d": 7.76,
+          "communities": 2,
+          "platforms": [
+            "reddit",
+            "x"
           ]
         }
       ]
@@ -309,44 +422,63 @@
       "topics": [
         {
           "keyword": "日経平均",
-          "summary": "10/29 漲 705 點至 64,659，連三漲；但美股盤後重挫，夜盤期貨 −630、SGX 開盤 −860，今天預期先賣壓。",
+          "summary": "10/30 反落 1,369 円（−2.12%）收 63,290 円，盤中跌逾 1,900 円；アドテスト、東エレク、SBG、イビデン 4 檔拖累約 1,100 円，TOPIX 僅 −0.95%。5ch「日経225先物実況」與「米国株」串每小時約 160–170 則。",
           "links": [
             {
-              "title": "Google 新聞：日経平均 続伸",
-              "url": "https://news.google.com/search?q=%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%20%E7%B6%9A%E4%BC%B8&hl=ja&gl=JP&ceid=JP:ja",
+              "title": "日本経済新聞：日経平均は4日ぶり反落 AI過剰投資懸念",
+              "url": "https://www.nikkei.com/article/DGXZQOFL29CHC0Z21C26A0000000/",
               "source": "news"
             },
             {
-              "title": "Google 新聞：日経平均先物 夜間",
-              "url": "https://news.google.com/search?q=%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%E5%85%88%E7%89%A9%20%E5%A4%9C%E9%96%93&hl=ja&gl=JP&ceid=JP:ja",
-              "source": "news"
-            }
-          ]
-        },
-        {
-          "keyword": "アドバンテスト／東エレク",
-          "summary": "Advantest 上修財測 +6%，東エレク同步領漲。",
-          "links": [
-            {
-              "title": "Google 新聞：アドバンテスト 上方修正",
-              "url": "https://news.google.com/search?q=%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%20%E4%B8%8A%E6%96%B9%E4%BF%AE%E6%AD%A3&hl=ja&gl=JP&ceid=JP:ja",
+              "title": "ロイター：ＡＩ・半導体株が大幅安 日銀会合は反応薄",
+              "url": "https://topics.smt.docomo.ne.jp/article/reuters/business/reuters-20261030100",
               "source": "news"
             },
             {
-              "title": "X 搜尋：アドバンテスト",
-              "url": "https://x.com/search?q=%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88&f=live",
-              "source": "x"
+              "title": "Mainichi：Nikkei falls sharply",
+              "url": "https://mainichi.jp/english/articles/20261030/p2g/00m/0bu/050000c",
+              "source": "news"
+            },
+            {
+              "title": "5ch：日経225先物オプション実況スレ59270",
+              "url": "https://hayabusa9.5ch.io/test/read.cgi/livemarket1/1793391475/",
+              "source": "5ch"
+            },
+            {
+              "title": "5ch：米国株やってる人の溜まり場10163",
+              "url": "https://egg.5ch.io/test/read.cgi/stock/1793386219/",
+              "source": "5ch"
             }
           ]
         },
         {
           "keyword": "キオクシア",
-          "summary": "持續走高，10/30 公布財報；X 日文提及 10/29 約 1.28 萬則，前 6 日均約 9800 則（約 1.3 倍），已是高聲量。",
+          "summary": "盤中 −7.14% 收 13,470 円；收盤後公布上半期純益 2.2 兆円（年增約 37 倍），但 10–12 月純益僅季增 0.3%，夜間 PTS 再跌約 12%。5ch 10/30 提及 1,380 則（「今買えばいい株」串副標「キオク喪失」），Yahoo!掲示板投稿數第 1，X 約 1.6 萬則（前 6 日均約 5,300）。",
           "links": [
             {
-              "title": "Google 新聞：キオクシア 決算",
-              "url": "https://news.google.com/search?q=%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2%20%E6%B1%BA%E7%AE%97&hl=ja&gl=JP&ceid=JP:ja",
+              "title": "朝日新聞：キオクシア、純利益が前年37倍 株価は乱高下",
+              "url": "https://www.asahi.com/articles/ASVBZ3PL2VBZULFA029M.html",
               "source": "news"
+            },
+            {
+              "title": "松井証券/MINKABU：キオクシアがＰＴＳで急落",
+              "url": "https://finance.matsui.co.jp/news/633300/index",
+              "source": "news"
+            },
+            {
+              "title": "日経：キオクシアHD株価が大幅反落",
+              "url": "https://www.nikkei.com/article/DGXZQOFL3009D0Q6A031C2000000/",
+              "source": "news"
+            },
+            {
+              "title": "Yahoo!ファイナンス掲示板：キオクシア",
+              "url": "https://finance.yahoo.co.jp/quote/285A.T/forum",
+              "source": "news"
+            },
+            {
+              "title": "5ch：今買えばいい株27688【キオク喪失】",
+              "url": "https://egg.5ch.io/test/read.cgi/stock/1793353961/",
+              "source": "5ch"
             },
             {
               "title": "X 搜尋：キオクシア",
@@ -356,52 +488,108 @@
           ]
         },
         {
-          "keyword": "日立／NEC",
-          "summary": "日立、NEC 財報後大跌。",
+          "keyword": "イビデン",
+          "summary": "主要客戶 Intel 盤後暴跌，ストップ安 8,359 円（−15.2%），即使自家財報上修。5ch 提及 301 則、X 約 2,970 則（前 6 日均約 910），Yahoo!掲示板投稿數第 3。",
           "links": [
             {
-              "title": "Google 新聞：日立 NEC 急落",
-              "url": "https://news.google.com/search?q=%E6%97%A5%E7%AB%8B%20NEC%20%E6%80%A5%E8%90%BD&hl=ja&gl=JP&ceid=JP:ja",
+              "title": "ザイ・オンライン：イビデン ストップ安",
+              "url": "https://diamond.jp/zai/articles/-/1074783",
+              "source": "news"
+            },
+            {
+              "title": "ATPAGES：日経平均1,257円安、イビデンはストップ安",
+              "url": "https://atpages.jp/tokyo-open-hour-nikkei-ibiden-limit-down-visual-2026-10-30/",
+              "source": "news"
+            },
+            {
+              "title": "X 搜尋：イビデン",
+              "url": "https://x.com/search?q=%E3%82%A4%E3%83%93%E3%83%87%E3%83%B3&f=live",
+              "source": "x"
+            }
+          ]
+        },
+        {
+          "keyword": "東京エレクトロン",
+          "summary": "上半期純益 +56%、通期上修並宣布 1,500 億円自社株買い，但當天仍跌 5.19% 收 9,514 円；レーザーテック減益不如預期。",
+          "links": [
+            {
+              "title": "Today Japan News：東エレク 1500億円自社株買いも株価反落",
+              "url": "https://www.today-jp.com/news/tokyo-electron-earnings-ai-demand",
+              "source": "news"
+            },
+            {
+              "title": "日経CNBC：日経平均1369円安、インテル急落で半導体株に売り",
+              "url": "https://online.nikkei-cnbc.co.jp/vod/68803",
               "source": "news"
             }
           ]
         },
         {
-          "keyword": "G＆Sショック",
-          "summary": "5ch「今買えばいい株」串的副標題改成「G＆Sショック」，指 Google 與 ServiceNow 暴跌衝擊；美股串（10156）已 912 則。",
+          "keyword": "村田製作所",
+          "summary": "上修本期純益至 3,960 億円、宣布 2026–2030 年度約 1 兆円投資 MLCC，但股價 −7.72% 收 6,358 円。X 10/30 約 1,220 則（前 6 日均約 310，約 3.9 倍），5ch 提及 234 則，Yahoo!掲示板投稿數第 5。",
           "links": [
             {
-              "title": "5ch 株式板",
-              "url": "https://egg.5ch.net/stock/",
-              "source": "5ch"
+              "title": "日経：村田製作所、27年3月期純利益を上方修正",
+              "url": "https://www.nikkei.com/article/DGXZQOFL303R70Q6A031C2000000/",
+              "source": "news"
+            },
+            {
+              "title": "Today Japan News：村田製作所 上方修正 株価は決算後も下落",
+              "url": "https://www.today-jp.com/news/murata-earnings-forecast-raise-mlcc-investment",
+              "source": "news"
+            },
+            {
+              "title": "X 搜尋：村田製作所",
+              "url": "https://x.com/search?q=%E6%9D%91%E7%94%B0%E8%A3%BD%E4%BD%9C%E6%89%80&f=live",
+              "source": "x"
             }
           ]
         },
         {
           "keyword": "日銀會議",
-          "summary": "BOJ 決策是今天焦點，市場看是否釋出升息訊號。",
+          "summary": "政策利率維持 1.25%（8 比 1），宣布明年 1 月起加快 ETF 賣出步調；植田稱市場影響有限，股市反應平淡。",
           "links": [
             {
-              "title": "Google 新聞：日銀 金融政策決定会合",
-              "url": "https://news.google.com/search?q=%E6%97%A5%E9%8A%80%20%E9%87%91%E8%9E%8D%E6%94%BF%E7%AD%96%E6%B1%BA%E5%AE%9A%E4%BC%9A%E5%90%88&hl=ja&gl=JP&ceid=JP:ja",
+              "title": "Bloomberg：Japanese Stocks Signal Confidence Over Faster BOJ ETF Sales",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-30/japanese-stocks-signal-confidence-over-faster-boj-etf-sales",
               "source": "news"
-            }
-          ]
-        },
-        {
-          "keyword": "野村HD",
-          "summary": "獲利增 27% 帶動上漲。",
-          "links": [
+            },
             {
-              "title": "Google 新聞：野村HD 増益",
-              "url": "https://news.google.com/search?q=%E9%87%8E%E6%9D%91HD%20%E5%A2%97%E7%9B%8A&hl=ja&gl=JP&ceid=JP:ja",
+              "title": "Nikkei Asia：BOJ to accelerate ETF sales",
+              "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-to-accelerate-etf-sales-more-than-doubling-pace-from-january",
+              "source": "news"
+            },
+            {
+              "title": "Kyodo：ETF selling will have limited market impact: Ueda",
+              "url": "https://english.kyodonews.net/articles/-/89967",
               "source": "news"
             }
           ]
         }
       ],
-      "early_heating": []
+      "early_heating": [
+        {
+          "keyword": "村田製作所",
+          "reason": "追蹤中（不是買賣訊號）：X 約 3.9 倍、5ch 234 則；未達 5 倍門檻，且股價 −7.7%、量比 2.7 已先動。",
+          "ratio_vs_7d": 3.93,
+          "communities": 3,
+          "platforms": [
+            "x",
+            "5ch"
+          ]
+        },
+        {
+          "keyword": "キオクシア",
+          "reason": "追蹤中（不是買賣訊號）：X 約 3.0 倍、5ch 1,380 則，本來就是高聲量；財報後 PTS −12%。",
+          "ratio_vs_7d": 3.03,
+          "communities": 3,
+          "platforms": [
+            "x",
+            "5ch"
+          ]
+        }
+      ]
     }
   },
-  "hit_rate_note": "回查 3–7 天前訊號（回溯計算）：RDDT、GOOGL 於 10/27 觸發，10/29 分別盤後 −17%、−12%，命中 2/2，樣本太小僅供參考。"
+  "hit_rate_note": "回查 10/24–10/28 的 Kleinberg 訊號：美股 3 個（RDDT 10/27、GOOGL 10/27、GOOG 10/28），之後 1–3 天 Reddit 提及都再升高（RDDT 10/30 21 則、GOOG 10/29 14 則、GOOGL 10/28 5 則），命中 3/3；台股 0 個訊號。樣本小，且三者都是財報週的回溯計算，僅供參考，不是買賣訊號。"
 }
