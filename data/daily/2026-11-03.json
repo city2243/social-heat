@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-03",
+  "markets": {
+    "TW": {
+      "topics": [
+        {
+          "keyword": "加權指數 −1,612 點",
+          "summary": "收 43,307.54（−3.59%），史上第 7 大跌點，櫃買 −6.42%，74 檔跌停；外資賣超 1,073 億元（史上第 8 大）。夜盤台指期破底翻紅，一度 +379 點。",
+          "links": [
+            {
+              "title": "中央社：台股重挫1612點",
+              "url": "https://www.cna.com.tw/news/afe/202611030168.aspx",
+              "source": "news"
+            },
+            {
+              "title": "中央社：外資賣超1073億",
+              "url": "https://www.cna.com.tw/news/afe/202611030310.aspx",
+              "source": "news"
+            },
+            {
+              "title": "工商時報：74檔殺跌停",
+              "url": "https://www.ctee.com.tw/news/20261103701197-430201",
+              "source": "news"
+            },
+            {
+              "title": "MoneyDJ：台股盤後",
+              "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=1d02ba92-4d9c-4fe5-9f81-d07e938bad3f",
+              "source": "news"
+            },
+            {
+              "title": "PTT：11/03 盤後閒聊（爆）",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793685614.A.CEE.html",
+              "source": "ptt"
+            },
+            {
+              "title": "經濟日報：夜盤衝破43,700",
+              "url": "https://money.udn.com/money/story/11112/9855290",
+              "source": "news"
+            }
+          ]
+        },
+        {
+          "keyword": "聯發科 −7.4%／蔡力行「請大家買聯發科」",
+          "summary": "收 3,675 元；蔡力行喊話在 PTT、Threads（單篇 4,400 讚）爆紅。PTT Kleinberg 觸發（2 篇，28 日均 0.54），X 11/2 37 則、11/3 31 則。",
+          "links": [
+            {
+              "title": "PTT：聯發科蔡力行：請大家買聯發科",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793678607.A.1AE.html",
+              "source": "ptt"
+            },
+            {
+              "title": "Threads 搜尋：聯發科",
+              "url": "https://www.threads.com/search?q=%E8%81%AF%E7%99%BC%E7%A7%91&serp_type=default&filter=recent",
+              "source": "threads"
+            },
+            {
+              "title": "X 搜尋：聯發科",
+              "url": "https://x.com/search?q=%E8%81%AF%E7%99%BC%E7%A7%91&f=live",
+              "source": "x"
+            }
+          ]
+        },
+        {
+          "keyword": "塑化重挫（南亞跌停）",
+          "summary": "油價因美伊和談訊號重挫逾 7%，塑膠類股 −8.74%，台塑、台化、台塑化跌逾 6–7%。",
+          "links": [
+            {
+              "title": "CMoney：塑膠族群重挫",
+              "url": "https://cmnews.com.tw/article/cmoneyairesearcher-1ff903aa-d726-11f1-a8b4-e2cb6923d54c",
+              "source": "cmoney"
+            },
+            {
+              "title": "Threads 搜尋：台塑",
+              "url": "https://www.threads.com/search?q=%E5%8F%B0%E5%A1%91&serp_type=default&filter=recent",
+              "source": "threads"
+            }
+          ]
+        },
+        {
+          "keyword": "CPO／記憶體／PCB 跌停潮",
+          "summary": "旺矽、華星光、聯亞、光聖、南亞科、華邦電、景碩、南電跌停；日月光 −8.6%、欣興 −9.5%。",
+          "links": [
+            {
+              "title": "中央社：CPO賣壓沉重",
+              "url": "https://www.cna.com.tw/news/afe/202611030168.aspx",
+              "source": "news"
+            },
+            {
+              "title": "PTT：南亞科 10月營收",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793689699.A.477.html",
+              "source": "ptt"
+            }
+          ]
+        },
+        {
+          "keyword": "台玻逆勢 +6%、資安股漲停",
+          "summary": "台玻 Q3 EPS 0.93 元＋72.6 億擴產；幣安被駭帶動仁大、全景、大世科漲停。",
+          "links": [
+            {
+              "title": "工商時報",
+              "url": "https://www.ctee.com.tw/news/20261103701197-430201",
+              "source": "news"
+            }
+          ]
+        },
+        {
+          "keyword": "國安基金／金管會",
+          "summary": "PTT 爆文：國安基金要出手、金管會急發聲。",
+          "links": [
+            {
+              "title": "PTT：國安基金要出手（爆）",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793704660.A.400.html",
+              "source": "ptt"
+            },
+            {
+              "title": "PTT：金管會急發聲（爆）",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793701100.A.1A1.html",
+              "source": "ptt"
+            },
+            {
+              "title": "YouTube：東森 台股崩1612點",
+              "url": "https://www.youtube.com/watch?v=C4lE_3eRL7A",
+              "source": "youtube"
+            }
+          ]
+        }
+      ],
+      "early_heating": [
+        {
+          "keyword": "聯發科",
+          "reason": "追蹤中（不是買賣訊號）：PTT Kleinberg 觸發，但股價已 −7.4%。",
+          "ratio_vs_7d": 3.7,
+          "communities": 3,
+          "platforms": [
+            "ptt",
+            "threads",
+            "x"
+          ]
+        }
+      ]
+    },
+    "US": {
+      "topics": [
+        {
+          "keyword": "期中選舉日",
+          "summary": "期貨漲跌互見，Nasdaq 期貨約 +0.3%、Dow 期貨約 −0.5%。",
+          "links": [
+            {
+              "title": "Reuters/Investing",
+              "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-mixed-as-apple-slides-midterms-loom-4994306",
+              "source": "news"
+            },
+            {
+              "title": "TipRanks",
+              "url": "https://www.tipranks.com/news/stock-market-today-nov-3-futures-mixed-on-midterm-election-day-apple-and-palantir-shares-slide-after-earnings",
+              "source": "news"
+            }
+          ]
+        },
+        {
+          "keyword": "Palantir 盤前 −6~8%",
+          "summary": "財報優於預期（美國商業營收 +148%），但合約價值成長放緩。X 11/2 約 6,590 則，前 6 日均約 1,200（約 5.4 倍）。",
+          "links": [
+            {
+              "title": "CNBC 盤前異動",
+              "url": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
+              "source": "news"
+            },
+            {
+              "title": "X 搜尋：PLTR",
+              "url": "https://x.com/search?q=PLTR&f=live",
+              "source": "x"
+            }
+          ]
+        },
+        {
+          "keyword": "Apple 盤前 −4%",
+          "summary": "毛利率展望偏弱（記憶體成本）、iPad 不如預期。",
+          "links": [
+            {
+              "title": "CNBC 盤前異動",
+              "url": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
+              "source": "news"
+            }
+          ]
+        },
+        {
+          "keyword": "Shopify 盤前約 −12%",
+          "summary": "Q3 營收 +32% 仍遭賣。",
+          "links": [
+            {
+              "title": "Morning Brief",
+              "url": "https://currentlogic.substack.com/p/the-morning-brief-november-3-2026",
+              "source": "news"
+            }
+          ]
+        },
+        {
+          "keyword": "Pfizer、Revvity、Zebra",
+          "summary": "Pfizer 優於預期持平；Revvity 上修 +7%；Zebra、Gartner 各 −6%。",
+          "links": [
+            {
+              "title": "CNBC 盤前異動",
+              "url": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
+              "source": "news"
+            }
+          ]
+        }
+      ],
+      "early_heating": [
+        {
+          "keyword": "PLTR",
+          "reason": "追蹤中（不是買賣訊號）：X 約 5.4 倍（備援門檻 ≥5 倍），但財報後股價已動。",
+          "ratio_vs_7d": 5.4,
+          "communities": 2,
+          "platforms": [
+            "x",
+            "5ch"
+          ]
+        }
+      ]
+    },
+    "JP": {
+      "topics": [
+        {
+          "keyword": "文化の日 休場",
+          "summary": "11/3 東京休市，11/4 再開。5ch 11/2–3 討論以キオクシア（413）、パランティア（47）、インテル、マーベル為主；Yahoo掲示板投稿数：キオクシア、データセクション、ジーエヌアイ、GMO、フジクラ。",
+          "links": [
+            {
+              "title": "5ch 株式板",
+              "url": "https://egg.5ch.io/stock/",
+              "source": "5ch"
+            },
+            {
+              "title": "Yahoo掲示板 ランキング",
+              "url": "https://finance.yahoo.co.jp/stocks/ranking/bbs?market=all",
+              "source": "news"
+            }
+          ]
+        }
+      ],
+      "early_heating": []
+    }
+  },
+  "hit_rate_note": "可能放量（as_of 11/3）：TW 成交量、TW 新聞、US 新聞皆無超過門檻（0.812／0.752／0.800）；台股接近門檻：宏達電 0.737（已在放量中）、八方雲集 0.649、楠梓電 0.642、長榮航 0.640。回查：10/29 早期訊號 TTWO 至 11/2 仍未升溫（Reddit 1 則），未命中；10/30–31 的 INTC、RDDT 為追蹤中。不是買賣訊號。"
+}
