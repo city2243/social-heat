@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-01",
+  "markets": {
+    "TW": {
+      "topics": [
+        {
+          "keyword": "週末盤後：國安基金、外資撤離",
+          "summary": "10/30 重挫 1,156 點後，週末 PTT 爆文集中在國安基金「股市有漲有跌很正常」、外資 10 月提款近 9,943 億元，以及金管會防堵「四貸同堂」。",
+          "links": [
+            {
+              "title": "PTT：國安基金：股市有漲有跌很正常（爆）",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793416184.A.7E9.html",
+              "source": "ptt"
+            },
+            {
+              "title": "PTT：台股失半年線 國家隊急護盤（爆）",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793403550.A.454.html",
+              "source": "ptt"
+            },
+            {
+              "title": "PTT：金管會出手了！防堵「四貸同堂」（爆）",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793528099.A.F46.html",
+              "source": "ptt"
+            },
+            {
+              "title": "PTT：[請益] 該先出場觀望嗎？（爆）",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793546786.A.F94.html",
+              "source": "ptt"
+            }
+          ]
+        }
+      ],
+      "early_heating": []
+    },
+    "US": {
+      "topics": [
+        {
+          "keyword": "10/30 收盤：AI 科技股續殺",
+          "summary": "Nasdaq 10/30 跌 2.86%；Intel −28.6%、Reddit −29.2%；Binance 被駭約 63 億美元拖累加密股。週末 Reddit 討論仍以 RDDT、INTC、AMD 為主。",
+          "links": [
+            {
+              "title": "PTT：〈美股盤後〉英特爾暴跌近29%（爆）",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793398719.A.186.html",
+              "source": "ptt"
+            },
+            {
+              "title": "PTT：幣安疑遭駭（爆）",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793407504.A.EFA.html",
+              "source": "ptt"
+            }
+          ]
+        }
+      ],
+      "early_heating": []
+    },
+    "JP": {
+      "topics": [
+        {
+          "keyword": "週末",
+          "summary": "休市。キオクシア 10/30 決算後夜間 PTS 大跌，X 上週六仍有約 5,000 則。",
+          "links": [
+            {
+              "title": "X 搜尋：キオクシア",
+              "url": "https://x.com/search?q=%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2&f=live",
+              "source": "x"
+            }
+          ]
+        }
+      ],
+      "early_heating": []
+    }
+  },
+  "hit_rate_note": "11/1 例行程序因用量上限未執行，此日為 11/3 補建（週末，無交易）。"
+}
