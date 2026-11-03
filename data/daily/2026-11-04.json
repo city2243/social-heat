@@ -1,0 +1,488 @@
+{
+  "date": "2026-11-04",
+  "markets": {
+    "TW": {
+      "topics": [
+        {
+          "keyword": "重挫 1,612 點後 夜盤 +426",
+          "summary": "11/3 加權收 43,307.54（−3.59%，史上第 7 大跌點）；美股費半 +2.63% 帶動台指期夜盤 +426 點收 43,779，市場關注今日能否止跌。PTT「明天會如何」、盤後閒聊皆爆文。",
+          "links": [
+            {
+              "title": "三立：費半大漲 台指夜盤漲426點",
+              "url": "https://www.setn.com/news/1933094",
+              "source": "news"
+            },
+            {
+              "title": "民視：台指期夜盤大漲426點",
+              "url": "https://www.ftvnews.com.tw/news/detail/2026B04W0087",
+              "source": "news"
+            },
+            {
+              "title": "中央社：台股重挫1612點",
+              "url": "https://www.cna.com.tw/news/afe/202611030168.aspx",
+              "source": "news"
+            },
+            {
+              "title": "PTT：到底前輩們認為明天會如何（爆）",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793717907.A.7F7.html",
+              "source": "ptt"
+            },
+            {
+              "title": "PTT：11/03 盤後閒聊（爆）",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793685614.A.CEE.html",
+              "source": "ptt"
+            }
+          ]
+        },
+        {
+          "keyword": "外資賣超 1,073 億、融資大減",
+          "summary": "外資連 4 賣、史上第 8 大賣超；上市融資減 229.25 億元，台指期外資淨空單約 9.18 萬口，市場擔心多殺多。",
+          "links": [
+            {
+              "title": "自由財經：上市融資大減229億",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5628399",
+              "source": "news"
+            },
+            {
+              "title": "自由財經：外資持續提款",
+              "url": "https://ec.ltn.com.tw/article/paper/1777103",
+              "source": "news"
+            },
+            {
+              "title": "工商時報：外資狠砍 股匯雙殺",
+              "url": "https://www.ctee.com.tw/news/20261104700042-439901",
+              "source": "news"
+            },
+            {
+              "title": "PTT：11/03 信用交易統計（爆）",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793711613.A.499.html",
+              "source": "ptt"
+            }
+          ]
+        },
+        {
+          "keyword": "華邦電法說＋731 億擴建高雄廠",
+          "summary": "華邦電稱明年記憶體供給可能更吃緊、延續到 2028；董事會通過 731 億元資本支出擴建高雄 Module B。但 11/3 收 146 元（−9.88%），八大公股逆勢買超。X 11/3 26 則（前 6 日均 5.8）。",
+          "links": [
+            {
+              "title": "中央社：華邦電通過731億資本支出",
+              "url": "https://www.cna.com.tw/news/afe/202611030266.aspx",
+              "source": "news"
+            },
+            {
+              "title": "鉅亨網：華邦電法說",
+              "url": "https://news.cnyes.com/news/id/6645310",
+              "source": "news"
+            },
+            {
+              "title": "三立：公股逆勢買華邦電仍跌停",
+              "url": "https://www.setn.com/news/1932831",
+              "source": "news"
+            },
+            {
+              "title": "PTT：2344 華邦電 Q3 EPS",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793691055.A.E9D.html",
+              "source": "ptt"
+            },
+            {
+              "title": "YouTube：雷老闆 華邦電南亞跌停怎麼辦",
+              "url": "https://www.youtube.com/watch?v=hYFlyX6R8w8",
+              "source": "youtube"
+            }
+          ]
+        },
+        {
+          "keyword": "環球晶 5 億美元私募 CB 美光全額認購",
+          "summary": "10 年期、票面 0.5%，搭配 10 年長期供應協議；Q3 獲利季減約 6 成。Threads「美光確定要合作啦」貼文受關注。",
+          "links": [
+            {
+              "title": "經濟日報：環球晶可轉債美光全額認購",
+              "url": "https://money.udn.com/money/story/5612/9854749",
+              "source": "news"
+            },
+            {
+              "title": "經濟日報：徐秀蘭 本季動能比預期好",
+              "url": "https://money.udn.com/money/story/11162/9855533",
+              "source": "news"
+            },
+            {
+              "title": "PTT：環球晶Q3獲利15億",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793703041.A.B9E.html",
+              "source": "ptt"
+            },
+            {
+              "title": "Threads 搜尋：環球晶",
+              "url": "https://www.threads.com/search?q=%E7%92%B0%E7%90%83%E6%99%B6&serp_type=default&filter=recent",
+              "source": "threads"
+            }
+          ]
+        },
+        {
+          "keyword": "永豐銀盜轉事件",
+          "summary": "新網銀系統異常，419 名客戶被轉出逾 4,000 萬元（每筆約 10 萬），已全數返還；金管會要求 11/12 前交報告。",
+          "links": [
+            {
+              "title": "中央社：永豐銀集體盜轉 影響419人",
+              "url": "https://www.cna.com.tw/news/afe/202611030259.aspx",
+              "source": "news"
+            },
+            {
+              "title": "經濟日報：永豐銀419人遭轉走逾4000萬",
+              "url": "https://money.udn.com/money/story/5613/9855068",
+              "source": "news"
+            },
+            {
+              "title": "PTT：永豐爆臉部掃描盜轉10萬",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793688380.A.C58.html",
+              "source": "ptt"
+            },
+            {
+              "title": "Threads 搜尋：永豐",
+              "url": "https://www.threads.com/search?q=%E6%B0%B8%E8%B1%90&serp_type=default&filter=recent",
+              "source": "threads"
+            }
+          ]
+        },
+        {
+          "keyword": "南亞科 10 月營收 464.76 億",
+          "summary": "年增 487.7%、連 12 個月創新高，但記憶體股 11/3 仍重挫，PTT 97 推。",
+          "links": [
+            {
+              "title": "MoneyDJ：南亞科10月營收年增487%",
+              "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=15c04f07-9a98-4852-9963-a68a3c13c371",
+              "source": "news"
+            },
+            {
+              "title": "經濟日報：南亞科營收連12月創高",
+              "url": "https://money.udn.com/money/story/5710/9854746",
+              "source": "news"
+            },
+            {
+              "title": "PTT：2408 南亞科 10月營收",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793689699.A.477.html",
+              "source": "ptt"
+            }
+          ]
+        },
+        {
+          "keyword": "國安基金／金管會發聲",
+          "summary": "PTT 熱議國安基金是否進場與金管會穩市說法（兩篇爆文／99 推）；目前未見國安基金已進場的官方消息。",
+          "links": [
+            {
+              "title": "PTT：台股血崩 國安基金要出手（爆）",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793704660.A.400.html",
+              "source": "ptt"
+            },
+            {
+              "title": "PTT：台股狂殺1612點 金管會急發聲",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793701100.A.1A1.html",
+              "source": "ptt"
+            },
+            {
+              "title": "鏡新聞：金管會辦論壇穩股市",
+              "url": "https://www.mnews.tw/story/20261103sot1325001",
+              "source": "news"
+            }
+          ]
+        }
+      ],
+      "early_heating": [
+        {
+          "keyword": "聯發科",
+          "reason": "追蹤中（不是買賣訊號）：11/3 PTT Kleinberg 觸發（2 篇，28 日均 0.54），14 天內不重報；X 11/3 32 則；股價已 −7.4%。",
+          "ratio_vs_7d": 1.5,
+          "communities": 3,
+          "platforms": [
+            "ptt",
+            "threads",
+            "x"
+          ]
+        },
+        {
+          "keyword": "華邦電",
+          "reason": "接近門檻（未觸發 Kleinberg）：X 26 則，前 6 日均 5.8（約 4.5 倍，未達 5 倍）；YouTube 今日 10 部；股價已 −9.9%，屬追蹤中。不是買賣訊號。",
+          "ratio_vs_7d": 4.5,
+          "communities": 4,
+          "platforms": [
+            "x",
+            "youtube",
+            "cmoney",
+            "threads"
+          ]
+        }
+      ]
+    },
+    "US": {
+      "topics": [
+        {
+          "keyword": "AMD 財報優於預期 盤後 +7.5%",
+          "summary": "Q3 營收 133.8 億美元、調整後 EPS 2.09，資料中心營收近倍增；Q4 營收指引約 170 億美元高於預期，盤後約 520 美元。Reddit 8 則（Kleinberg 觸發）、X 2.19 萬則。",
+          "links": [
+            {
+              "title": "CNBC：AMD Q3 財報",
+              "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+              "source": "news"
+            },
+            {
+              "title": "AMD IR：Q3 2026 財報新聞稿",
+              "url": "https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results",
+              "source": "news"
+            },
+            {
+              "title": "Investing.com（Reuters）：AMD 盤後大漲",
+              "url": "https://www.investing.com/news/earnings/amd-stock-jumps-after-hours-as-quarterly-results-revenue-guidance-beat-estimates-4996344",
+              "source": "news"
+            },
+            {
+              "title": "YouTube：Bloomberg — AMD Earnings 'Met the Bar'",
+              "url": "https://www.youtube.com/watch?v=4VvX7ois_8A",
+              "source": "youtube"
+            },
+            {
+              "title": "X 搜尋：AMD",
+              "url": "https://x.com/search?q=AMD&f=live",
+              "source": "x"
+            }
+          ]
+        },
+        {
+          "keyword": "期中選舉開票",
+          "summary": "預測市場認為民主黨幾乎確定拿下眾議院、參議院約 7 成機率；華爾街擔心「藍色浪潮」不利 AI／資料中心股。S&P 期貨 +0.3%。",
+          "links": [
+            {
+              "title": "CNBC：期貨小漲 等待選舉結果",
+              "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+              "source": "news"
+            },
+            {
+              "title": "CNBC：民主黨橫掃對股市的意義",
+              "url": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
+              "source": "news"
+            },
+            {
+              "title": "MarketWatch：美股漲跌互見 選舉與伊朗緊張",
+              "url": "https://www.marketwatch.com/story/u-s-stocks-mixed-amid-midterm-iran-war-nerves-1910f17e",
+              "source": "news"
+            }
+          ]
+        },
+        {
+          "keyword": "Apple 毛利率指引不如預期 −2%",
+          "summary": "Ternus 首次財報會議稱記憶體價格「前所未見」且會續漲，12 月季毛利率 45–46% 低於預期，拖累道瓊（−0.38%）。X 11/2 8,836 則（約 3.7 倍）。",
+          "links": [
+            {
+              "title": "CNBC：Ternus 首考 記憶體成本",
+              "url": "https://www.cnbc.com/2026/11/03/apple-earnings-john-ternus-faces-first-test-amid-high-memory-costs.html",
+              "source": "news"
+            },
+            {
+              "title": "CNA（Reuters）：Apple shares slide",
+              "url": "https://www.channelnewsasia.com/business/apple-shares-slide-ternus-sounds-alarm-memory-costs-6516726",
+              "source": "news"
+            },
+            {
+              "title": "X 搜尋：AAPL",
+              "url": "https://x.com/search?q=AAPL&f=live",
+              "source": "x"
+            }
+          ]
+        },
+        {
+          "keyword": "晶片股反彈 費半 +2.63%",
+          "summary": "那指 +0.83%、S&P 終結 3 連跌；NVDA +2.3%、AVGO +3.1%、SanDisk +4.8%；但 10 年期殖利率升至 4.95%。",
+          "links": [
+            {
+              "title": "CNBC：S&P 500 snaps 3-day skid",
+              "url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
+              "source": "news"
+            },
+            {
+              "title": "AP：主要指數表現 11/3",
+              "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-95ac47c160dba546cbbdf72c10010e2c",
+              "source": "news"
+            }
+          ]
+        },
+        {
+          "keyword": "Palantir 財報後下跌",
+          "summary": "營收年增 96% 優於預期，但美國商業 TCV 成長由 153% 驟降至 11%，股價走弱；X 11/2 6,584、11/3 5,471 則。",
+          "links": [
+            {
+              "title": "CNBC：Palantir 財報後下跌",
+              "url": "https://www.cnbc.com/2026/11/03/palantir-stock-q3-earnings-analyst-ratings.html",
+              "source": "news"
+            },
+            {
+              "title": "MarketWatch：為何 Palantir 下跌",
+              "url": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8",
+              "source": "news"
+            }
+          ]
+        },
+        {
+          "keyword": "Super Micro、Arista 盤後大漲",
+          "summary": "SMCI 財報與 FY2027 營收指引 720–820 億美元優於預期，盤後 +9%；Arista Q4 指引優於預期，盤後 +12%。",
+          "links": [
+            {
+              "title": "CNBC：盤後大漲股 AMD、SMCI",
+              "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+              "source": "news"
+            },
+            {
+              "title": "YouTube：AMD & SMCI 財報直播",
+              "url": "https://www.youtube.com/watch?v=mQMhXwz88co",
+              "source": "youtube"
+            }
+          ]
+        },
+        {
+          "keyword": "Bloom Energy +10%",
+          "summary": "Barclays 升評等，加上與 California Resources 簽 1GW 燃料電池合作 MOU；X 11/3 252 則（前 6 日均 86，約 2.9 倍）。",
+          "links": [
+            {
+              "title": "Motley Fool：Bloom Energy 大漲原因",
+              "url": "https://www.fool.com/investing/2026/11/03/why-did-bloom-energy-stock-jump-10-today/",
+              "source": "news"
+            },
+            {
+              "title": "Seeking Alpha：Barclays 升評",
+              "url": "https://seekingalpha.com/news/4663936-bloom-energy-jumps-9-after-barclays-upgrade-california-power-development-deal",
+              "source": "news"
+            }
+          ]
+        },
+        {
+          "keyword": "Marvell 併 Lumentum 1,150 億美元",
+          "summary": "11/2 宣布全股票交易，MRVL 當日約 −13%、LITE −19%；11/3 小幅回穩，台灣 CPO 族群也被牽動。",
+          "links": [
+            {
+              "title": "CNBC：Marvell to buy Lumentum",
+              "url": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
+              "source": "news"
+            },
+            {
+              "title": "Motley Fool：Marvell 11/3 走勢",
+              "url": "https://www.fool.com/coverage/stock-market-today/2026/11/03/stock-market-today-nov-3-marvell-shares-edge-higher-after-premarket-drop-on-usd115-billion-lumentum-deal/",
+              "source": "news"
+            }
+          ]
+        }
+      ],
+      "early_heating": [
+        {
+          "keyword": "AMD",
+          "reason": "追蹤中（不是買賣訊號）：11/3 Reddit Kleinberg 觸發（8 則，28 日均 1.00）；X 21,876 則（約 2.5 倍）、YouTube 今日 22 部、5ch 103 則；10/30 已 |z| 3.16、量比 2.11。",
+          "ratio_vs_7d": 8.0,
+          "communities": 4,
+          "platforms": [
+            "reddit",
+            "x",
+            "youtube",
+            "5ch"
+          ]
+        }
+      ]
+    },
+    "JP": {
+      "topics": [
+        {
+          "keyword": "休場明け 米中間選挙待ち",
+          "summary": "文化の日休場明け。日経平均先物（大阪夜間）6 万 3,090 円、シカゴ 6 万 3,410 円；5ch「中間選挙」146 則。",
+          "links": [
+            {
+              "title": "日経：米中間選挙の結果をにらむ",
+              "url": "https://www.nikkei.com/article/DGXZQOFL033RF0T01C26A1000000/",
+              "source": "news"
+            },
+            {
+              "title": "日経：日経平均先物 夜間170円安",
+              "url": "https://www.nikkei.com/article/DGXZQOFL0402J0U6A101C2000000/",
+              "source": "news"
+            },
+            {
+              "title": "みんかぶ：4日の株式相場見通し",
+              "url": "https://minkabu.jp/news/4649251",
+              "source": "news"
+            },
+            {
+              "title": "5ch：日経225先物実況スレ",
+              "url": "https://hayabusa9.5ch.io/test/read.cgi/livemarket1/1793744810/",
+              "source": "5ch"
+            }
+          ]
+        },
+        {
+          "keyword": "キオクシア 決算失望 −15.8%",
+          "summary": "11/2 10–12 月期の利益見通しが市場予想を下回り 1 万 1,345 円まで急落（6 カ月半ぶり安値）。5ch 277 則／185 ID、Yahoo掲示板 投稿数 1 位。",
+          "links": [
+            {
+              "title": "日経：キオクシア株 6カ月半ぶり安値",
+              "url": "https://www.nikkei.com/article/DGXZQOUB012I30R01C26A1000000/",
+              "source": "news"
+            },
+            {
+              "title": "Yahoo!ファイナンス：キオクシア急落",
+              "url": "https://finance.yahoo.co.jp/news/detail/8af5646f4fffb748cbb37c12b68922ae8e22140c",
+              "source": "news"
+            },
+            {
+              "title": "Yahoo掲示板：キオクシア",
+              "url": "https://finance.yahoo.co.jp/quote/285A.T/forum",
+              "source": "news"
+            }
+          ]
+        },
+        {
+          "keyword": "AMD・アップル決算",
+          "summary": "5ch 米国株スレで AMD（103 則）、アップル（41 則）が話題；半導体関連の買い戻し期待。",
+          "links": [
+            {
+              "title": "5ch：米国株やってる人の溜まり場",
+              "url": "https://egg.5ch.io/test/read.cgi/stock/1793715372/",
+              "source": "5ch"
+            },
+            {
+              "title": "ロイター：S&P・ナスダック反発",
+              "url": "https://topics.smt.docomo.ne.jp/article/reuters/business/reuters-20261104016",
+              "source": "news"
+            }
+          ]
+        },
+        {
+          "keyword": "データセクション 続落",
+          "summary": "AI データセンター材料で急伸後に反落、11/2 は −7.95%；Yahoo掲示板投稿数 2 位。",
+          "links": [
+            {
+              "title": "チャートなび：データセクション4日続落",
+              "url": "https://chartnavi.com/scan/wadai/brand/_3905/_20261102/_09/",
+              "source": "news"
+            },
+            {
+              "title": "Yahoo掲示板：データセクション",
+              "url": "https://finance.yahoo.co.jp/quote/3905.T/forum",
+              "source": "news"
+            }
+          ]
+        },
+        {
+          "keyword": "ソフトバンクG ADR 下落",
+          "summary": "ADR でソフトバンクG、INPEX が下落；Yahoo掲示板投稿数 4 位。",
+          "links": [
+            {
+              "title": "トレーダーズ・ウェブ：ADR主要銘柄",
+              "url": "https://www.traders.co.jp/news/article/1_2212654",
+              "source": "news"
+            },
+            {
+              "title": "Yahoo掲示板：ソフトバンクG",
+              "url": "https://finance.yahoo.co.jp/quote/9984.T/forum",
+              "source": "news"
+            }
+          ]
+        }
+      ],
+      "early_heating": []
+    }
+  },
+  "hit_rate_note": "可能放量（as_of 11/3）：TW 成交量／TW 新聞／US 新聞皆無超過門檻（0.813／0.759／0.796）；台股成交量接近門檻：楠梓電 0.725、日月光投控 0.640、皇翔 0.619（已在事件中）、中環 0.588（已在事件中）、光聖 0.587。回查 10/28–11/1 Kleinberg 訊號：GOOG、AMZN、RDDT 之後 3 天內仍持平或升溫（3/5），TTWO、INTC 未再升溫；早期訊號 TTWO 0/1。不是買賣訊號。"
+}
