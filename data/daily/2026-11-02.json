@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-02",
+  "markets": {
+    "TW": {
+      "topics": [
+        {
+          "keyword": "加權指數",
+          "summary": "跌 291.69 點（−0.65%）收 44,920，失守 45,000、日 K 連三黑；外資賣超 735 億元，投信買超 361 億元。00406A 除息前遭外資賣 11 萬張，0050 外資連 17 賣。",
+          "links": [
+            {
+              "title": "中央社：三大法人賣超526.91億",
+              "url": "https://www.cna.com.tw/news/afe/202611020147.aspx",
+              "source": "news"
+            },
+            {
+              "title": "鉅亨網：外資大砍735億、投信猛接361億",
+              "url": "https://news.cnyes.com/news/id/6643856",
+              "source": "news"
+            },
+            {
+              "title": "MoneyDJ：台股盤後 收跌291點",
+              "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=b21c328d-8c0c-4b30-b4cf-72de1ca1a3ff",
+              "source": "news"
+            },
+            {
+              "title": "PTT：2026/11/02 盤後閒聊（爆）",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793599217.A.713.html",
+              "source": "ptt"
+            },
+            {
+              "title": "股市同學會：11/2 盤後資料",
+              "url": "https://www.cmoney.tw/forum/article/187372241",
+              "source": "cmoney"
+            }
+          ]
+        },
+        {
+          "keyword": "鴻海科技日",
+          "summary": "劉揚偉喊明年營收雙位數成長、AI 伺服器產能翻倍，鴻海逆勢 +2.2% 收 251 元。",
+          "links": [
+            {
+              "title": "風傳媒：鴻海科技日利多發酵",
+              "url": "https://www.storm.mg/article/11177635",
+              "source": "news"
+            },
+            {
+              "title": "股市同學會：鴻海討論",
+              "url": "https://www.cmoney.tw/forum/article/187405942",
+              "source": "cmoney"
+            }
+          ]
+        },
+        {
+          "keyword": "聯電光通訊大單／聯發科外資力挺",
+          "summary": "PTT 晨間熱文：聯電奪光通訊大單；五大外資力挺聯發科 AI ASIC。",
+          "links": [
+            {
+              "title": "PTT：聯電奪光通訊重量級大單",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793575508.A.D58.html",
+              "source": "ptt"
+            },
+            {
+              "title": "PTT：聯發科要噴了？5大外資力挺AI",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793591873.A.070.html",
+              "source": "ptt"
+            }
+          ]
+        },
+        {
+          "keyword": "ETF 配息話題",
+          "summary": "00403A 首配息 0 元、00878 配 1.25 元，PTT 兩篇爆文。",
+          "links": [
+            {
+              "title": "PTT：00403A首配息喊卡（爆）",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793607426.A.A19.html",
+              "source": "ptt"
+            },
+            {
+              "title": "PTT：00878配息1.25元（爆）",
+              "url": "https://www.ptt.cc/bbs/Stock/M.1793610040.A.7D0.html",
+              "source": "ptt"
+            }
+          ]
+        }
+      ],
+      "early_heating": []
+    },
+    "US": {
+      "topics": [
+        {
+          "keyword": "Marvell 1,150 億美元併 Lumentum",
+          "summary": "全股票併購，MRVL −12.7%、LITE −18.6%；費半 −3.37%。X 上 MRVL 11/2 約 6,076 則（前 6 日均約 1,600，約 3.8 倍）。",
+          "links": [
+            {
+              "title": "CNBC：Marvell to buy Lumentum",
+              "url": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
+              "source": "news"
+            },
+            {
+              "title": "Business Insider",
+              "url": "https://www.businessinsider.com/marvell-stock-lumentum-deal-ai-data-centers-mrvl-lte-2026-11",
+              "source": "news"
+            },
+            {
+              "title": "X 搜尋：MRVL",
+              "url": "https://x.com/search?q=MRVL&f=live",
+              "source": "x"
+            }
+          ]
+        },
+        {
+          "keyword": "Oracle 200 億美元融資",
+          "summary": "100 億股票＋100 億債，稀釋與 AI 負債疑慮，ORCL −8.8%。",
+          "links": [
+            {
+              "title": "Invested Alpha",
+              "url": "https://investedalpha.com/news/marvell-lumentum-115-billion-oracle-20-billion-raise-chips-sink-dow-rises-oil-biggest-drop-since-july",
+              "source": "news"
+            },
+            {
+              "title": "X 搜尋：ORCL",
+              "url": "https://x.com/search?q=ORCL&f=live",
+              "source": "x"
+            }
+          ]
+        },
+        {
+          "keyword": "指數",
+          "summary": "Dow +0.41%、S&P −0.51%、Nasdaq −1.07%；油價因美伊和談訊號大跌。",
+          "links": [
+            {
+              "title": "CNBC：Stock market news Nov 2",
+              "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
+              "source": "news"
+            },
+            {
+              "title": "AP",
+              "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-475bb37b4d95dd99e26c94e708c99f8f",
+              "source": "news"
+            }
+          ]
+        }
+      ],
+      "early_heating": []
+    },
+    "JP": {
+      "topics": [
+        {
+          "keyword": "キオクシア −15.8%",
+          "summary": "決算・見通しが期待に届かず 11,345 円、日経平均を約 150 円押し下げ。Yahoo掲示板投稿数 1 位、5ch 11/2–3 関連 413 レス。",
+          "links": [
+            {
+              "title": "日経：東証大引け キオクシア15%安",
+              "url": "https://www.nikkei.com/article/DGXZQOFL024L10S6A101C2000000/",
+              "source": "news"
+            },
+            {
+              "title": "Yahoo掲示板：キオクシア",
+              "url": "https://finance.yahoo.co.jp/quote/285A.T/forum",
+              "source": "news"
+            }
+          ]
+        },
+        {
+          "keyword": "SCREEN −19%",
+          "summary": "上期営業益が市場予想未達、通期据え置き。",
+          "links": [
+            {
+              "title": "日経：SCREEN一時18.7%安",
+              "url": "https://www.nikkei.com/article/DGXZQOFL020V80S6A101C2000000/",
+              "source": "news"
+            },
+            {
+              "title": "ザイ",
+              "url": "https://diamond.jp/zai/articles/-/1074853",
+              "source": "news"
+            }
+          ]
+        },
+        {
+          "keyword": "東京エレクトロン +5.2%",
+          "summary": "好決算＋1,500 億円自社株買い。日経平均は 208 円安 63,081。",
+          "links": [
+            {
+              "title": "日本インタビュ新聞",
+              "url": "https://www.media-ir.com/news/?p=186987",
+              "source": "news"
+            }
+          ]
+        }
+      ],
+      "early_heating": []
+    }
+  },
+  "hit_rate_note": "11/2 例行程序因用量上限未執行，此日為 11/3 補建。Kleinberg（PTT／Reddit）11/2 無新觸發。"
+}
